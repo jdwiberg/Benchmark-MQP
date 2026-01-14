@@ -1,0 +1,44 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Cheryl Mills",
+      "relation_category": "DR",
+      "relational_entity": "Mills, Cheryl D"
+    },
+    {
+      "target_entity": "Cheryl Mills",
+      "relation_category": "SI",
+      "relational_entity": "<MillsCD@state.gov >"
+    },
+    {
+      "target_entity": "Cheryl Mills",
+      "relation_category": "DR",
+      "relational_entity": "you're"
+    },
+    {
+      "target_entity": "Jacob J Sullivan",
+      "relation_category": "DR",
+      "relational_entity": "Sullivan, Jacob J"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "HRC"
+    },
+    {
+      "target_entity": "Kouchner",
+      "relation_category": "DR",
+      "relational_entity": "Kouchner"
+    },
+    {
+      "target_entity": "France",
+      "relation_category": "DR",
+      "relational_entity": "France"
+    }
+  ]
+}

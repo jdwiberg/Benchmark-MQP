@@ -1,0 +1,40 @@
+{
+  "relationship_triplets": [
+     {
+      "target_entity": "Ehud Barak",
+      "relation_category": "DR",
+      "relational_entity": "ehud barak"
+    },
+
+    {
+      "target_entity": "Ehud Barak",
+      "relation_category": "SI",
+      "relational_entity": "ehbarak1@gmail.com"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey Epstein"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "DR",
+      "relational_entity": "Jeff"
+    },
+    {
+      "target_entity": "Nili",
+      "relation_category": "DR",
+      "relational_entity": "Nili"
+    },
+    {
+      "target_entity": "Ehud Barak",
+      "relation_category": "DR",
+      "relational_entity": "EB"
+    }
+  ]
+}

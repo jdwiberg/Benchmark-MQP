@@ -1,0 +1,289 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Office Chairman",
+      "relation_category": "NPUI",
+      "relational_entity": "office.chairman@enron.com"
+    },
+    {
+      "target_entity": "Enron",
+      "relation_category": "NPUI",
+      "relational_entity": "all.worldwide@enron.com"
+    },
+    {
+      "target_entity": "The Managing Director PRC Committee",
+      "relation_category": "DR",
+      "relational_entity": "The Managing Director PRC Committee"
+    },
+    {
+      "target_entity": ["Phillip K. Allen", "Franklin R. Bay", "Timothy N. Belden", "Michael R. Brown", "Christopher F. Calger", "Joseph M. Deffner", "Timothy J. Detmering", "William D. Duran", "Robert S. Gahn", "Kevin C. Garland", "Ben F. Glisan Jr.", "Robert E. Hayes", "Phillip R. Milnthorp", "Sally W. Beck", "Fernley Dyson", "Sami Arap Sobrinho", "Merat Bagha", "Justin Boyd", "Mary Nell Browning", "John W. Schwartzenburg", "Michael D. Smith", "Marcus Vonbock Und Polach", "Jay C. Webb", "Donald R. Hawkins", "John R. Keller"],
+      "relation_category": "DR",
+      "relational_entity": "These employees"
+    },
+    {
+      "target_entity": "Enron",
+      "relation_category": "DR",
+      "relational_entity": "the organization"
+    },
+    {
+      "target_entity": "Enron",
+      "relation_category": "DR",
+      "relational_entity": "the company"
+    },
+    {
+      "target_entity": "The Managing Director PRC Committee",
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": "Phillip K. Allen",
+      "relation_category": "DR",
+      "relational_entity": "Phillip K. Allen"
+    },
+    {
+      "target_entity": "Phillip K. Allen",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) West Gas Trading – Houston"
+    },
+    {
+      "target_entity": "Franklin R. Bay",
+      "relation_category": "DR",
+      "relational_entity": "Franklin R. Bay"
+    },
+    {
+      "target_entity": "Franklin R. Bay",
+      "relation_category": "NPUI",
+      "relational_entity": "EBS Entertainment on Demand – Houston"
+    },
+    {
+      "target_entity": "Timothy N. Belden",
+      "relation_category": "DR",
+      "relational_entity": "Timothy N. Belden"
+    },
+    {
+      "target_entity": "Timothy N. Belden",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) West Power Trading – Portland"
+    },
+    {
+      "target_entity": "Michael R. Brown",
+      "relation_category": "DR",
+      "relational_entity": "Michael R. Brown"
+    },
+    {
+      "target_entity": "Michael R. Brown",
+      "relation_category": "NPUI",
+      "relational_entity": "EEL Executive – London"
+    },
+    {
+      "target_entity": "Christopher F. Calger",
+      "relation_category": "DR",
+      "relational_entity": "Christopher F. Calger"
+    },
+    {
+      "target_entity": "Christopher F. Calger",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) West Power Origination – Portland"
+    },
+    {
+      "target_entity": "Joseph M. Deffner",
+      "relation_category": "DR",
+      "relational_entity": "Joseph M. Deffner"
+    },
+    {
+      "target_entity": "Joseph M. Deffner",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) Treasury & Funding – Houston"
+    },
+    {
+      "target_entity": "Timothy J. Detmering",
+      "relation_category": "DR",
+      "relational_entity": "Timothy J. Detmering"
+    },
+    {
+      "target_entity": "Timothy J. Detmering",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) Corporate Development – Houston"
+    },
+    {
+      "target_entity": "William D. Duran",
+      "relation_category": "DR",
+      "relational_entity": "William D. Duran"
+    },
+    {
+      "target_entity": "William D. Duran",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) Generation Investments – Houston"
+    },
+    {
+      "target_entity": "Robert S. Gahn",
+      "relation_category": "DR",
+      "relational_entity": "Robert S. Gahn"
+    },
+    {
+      "target_entity": "Robert S. Gahn",
+      "relation_category": "NPUI",
+      "relational_entity": "EES Commodity Structuring – Houston"
+    },
+    {
+      "target_entity": "Kevin C. Garland",
+      "relation_category": "DR",
+      "relational_entity": "Kevin C. Garland"
+    },
+    {
+      "target_entity": "Kevin C. Garland",
+      "relation_category": "NPUI",
+      "relational_entity": "EBS Broadband Ventures – Houston"
+    },
+    {
+      "target_entity": "Ben F. Glisan Jr.",
+      "relation_category": "DR",
+      "relational_entity": "Ben F. Glisan Jr."
+    },
+    {
+      "target_entity": "Ben F. Glisan Jr.",
+      "relation_category": "NPUI",
+      "relational_entity": "Corporate Global Equity Markets – Houston"
+    },
+    {
+      "target_entity": "Robert E. Hayes",
+      "relation_category": "DR",
+      "relational_entity": "Robert E. Hayes"
+    },
+    {
+      "target_entity": "Robert E. Hayes",
+      "relation_category": "NPUI",
+      "relational_entity": "ETS COMM Marketing – Houston"
+    },
+    {
+      "target_entity": "Phillip R. Milnthorp",
+      "relation_category": "DR",
+      "relational_entity": "Phillip R. Milnthorp"
+    },
+    {
+      "target_entity": "Phillip R. Milnthorp",
+      "relation_category": "NPUI",
+      "relational_entity": "ENA (EWS) Canada Origination & Trading – Calgary"
+    },
+    {
+      "target_entity": "Sally W. Beck",
+      "relation_category": "DR",
+      "relational_entity": "Sally W. Beck"
+    },
+    {
+      "target_entity": "Sally W. Beck",
+      "relation_category": "NPUI",
+      "relational_entity": "ENW (EWS) Energy Operations Management – Houston"
+    },
+    {
+      "target_entity": "Fernley Dyson",
+      "relation_category": "DR",
+      "relational_entity": "Fernley Dyson"
+    },
+    {
+      "target_entity": "Fernley Dyson",
+      "relation_category": "NPUI",
+      "relational_entity": "EEL Finance & Support Services – London"
+    },
+    {
+      "target_entity": "Sami Arap Sobrinho",
+      "relation_category": "DR",
+      "relational_entity": "Sami Arap Sobrinho"
+    },
+    {
+      "target_entity": "Sami Arap Sobrinho",
+      "relation_category": "NPUI",
+      "relational_entity": "ESA (EWS) Legal – Houston"
+    },
+    {
+      "target_entity": "Merat Bagha",
+      "relation_category": "DR",
+      "relational_entity": "Merat Bagha"
+    },
+    {
+      "target_entity": "Merat Bagha",
+      "relation_category": "NPUI",
+      "relational_entity": "EBS Sales Engineering – Houston"
+    },
+    {
+      "target_entity": "Justin Boyd",
+      "relation_category": "DR",
+      "relational_entity": "Justin Boyd"
+    },
+    {
+      "target_entity": "Justin Boyd",
+      "relation_category": "NPUI",
+      "relational_entity": "EEL Legal – London"
+    },
+    {
+      "target_entity": "Mary Nell Browning",
+      "relation_category": "DR",
+      "relational_entity": "Mary Nell Browning"
+    },
+    {
+      "target_entity": "Mary Nell Browning",
+      "relation_category": "NPUI",
+      "relational_entity": "EBS Legal – London"
+    },
+    {
+      "target_entity": "John W. Schwartzenburg",
+      "relation_category": "DR",
+      "relational_entity": "John W. Schwartzenburg"
+    },
+    {
+      "target_entity": "John W. Schwartzenburg",
+      "relation_category": "NPUI",
+      "relational_entity": "EECC Legal – Houston"
+    },
+    {
+      "target_entity": "Michael D. Smith",
+      "relation_category": "DR",
+      "relational_entity": "Michael D. Smith"
+    },
+    {
+      "target_entity": "Michael D. Smith",
+      "relation_category": "NPUI",
+      "relational_entity": "EES Legal – Houston"
+    },
+    {
+      "target_entity": "Marcus Vonbock Und Polach",
+      "relation_category": "DR",
+      "relational_entity": "Marcus Vonbock Und Polach"
+    },
+    {
+      "target_entity": "Marcus Vonbock Und Polach",
+      "relation_category": "NPUI",
+      "relational_entity": "EEL Legal – London"
+    },
+    {
+      "target_entity": "Jay C. Webb",
+      "relation_category": "DR",
+      "relational_entity": "Jay C. Webb"
+    },
+    {
+      "target_entity": "Jay C. Webb",
+      "relation_category": "NPUI",
+      "relational_entity": "ENW (EWS) EnronOnline Systems – Houston"
+    },
+    {
+      "target_entity": "Donald R. Hawkins",
+      "relation_category": "DR",
+      "relational_entity": "Donald R. Hawkins"
+    },
+    {
+      "target_entity": "Donald R. Hawkins",
+      "relation_category": "NPUI",
+      "relational_entity": "ETS Quality Management – Houston"
+    },
+    {
+      "target_entity": "John R. Keller",
+      "relation_category": "DR",
+      "relational_entity": "John R. Keller"
+    },
+    {
+      "target_entity": "John R. Keller",
+      "relation_category": "NPUI",
+      "relational_entity": "ETS Engineering & Construction – Houston"
+    }
+  ]
+}

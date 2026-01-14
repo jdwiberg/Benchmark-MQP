@@ -1,0 +1,44 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "NPUI",
+      "relational_entity": "martin.cuilla@enron.com"
+    },
+    {
+      "target_entity": "agrovil",
+      "relation_category": "NPUI",
+      "relational_entity": "agrovil@huglushotguns.com"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "NPUI",
+      "relational_entity": "live in Houston"
+    },
+    {
+      "target_entity": "Martin Cuilla",
+      "relation_category": "DR",
+      "relational_entity": "Martin Cuilla"
+    }
+  ]
+}

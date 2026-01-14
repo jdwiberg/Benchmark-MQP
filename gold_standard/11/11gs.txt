@@ -1,0 +1,28 @@
+From: tobias.munk@enron.com
+To: harry.arora@enron.com, suresh.raghavan@enron.com, john.spitz@enron.com
+Subject: Acceptance contract, specifications
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tobias Munk
+X-To: Harry Arora, suresh.raghavan@enron.com, John Spitz
+X-cc: 
+X-bcc: 
+
+Hi,
+
+Harry would like to meet with us to get buy-in for the development time-table 
+of FileOpen deliverables for the dataroom.
+
+This is in the light of the impending signing-off on the design 
+specifications for FileOpen Systems.
+
+I have attached that document for reference
+
+Could you please confirm 1:30 pm today, on the 27th floor, next to the Chairman's office.
+
+Regards
+
+Tobias
+
+

@@ -1,0 +1,179 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Huma Abedin",
+      "relation_category": "DR",
+      "relational_entity": "Abedin, Huma"
+    },
+    {
+      "target_entity": "Huma Abedin",
+      "relation_category": "SI",
+      "relational_entity": "<AbedinH@state.gov >"
+    },
+    {
+      "target_entity": "Huma Abedin",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Huma Abedin",
+      "relation_category": "DR",
+      "relational_entity": "Huma"
+    },
+
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "SI",
+      "relational_entity": "<HDR22@clintonemail.com >"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "You"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "u"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "i"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "our"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "hrc"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "her"
+    },
+
+    {
+      "target_entity": "Pinato",
+      "relation_category": "DR",
+      "relational_entity": "pinato"
+    },
+    {
+      "target_entity": "Pinato",
+      "relation_category": "DR",
+      "relational_entity": "He"
+    },
+
+    {
+      "target_entity": "Lobo",
+      "relation_category": "DR",
+      "relational_entity": "lobo"
+    },
+    {
+      "target_entity": "Lobo",
+      "relation_category": "DR",
+      "relational_entity": "Lobo"
+    },
+
+    {
+      "target_entity": "Equadoran foreign minister",
+      "relation_category": "NPUI",
+      "relational_entity": "Equadoran"
+    },
+    {
+      "target_entity": "Equadoran foreign minister",
+      "relation_category": "NPUI",
+      "relational_entity": "foreign minister"
+    },
+    {
+      "target_entity": "Equadoran foreign minister",
+      "relation_category": "DR",
+      "relational_entity": "him"
+    },
+
+    {
+      "target_entity": "Mubarak",
+      "relation_category": "DR",
+      "relational_entity": "President Mubarak"
+    },
+
+    {
+      "target_entity": "Oscar Flores",
+      "relation_category": "DR",
+      "relational_entity": "Oscar Flores"
+    },
+    {
+      "target_entity": "Oscar Flores",
+      "relation_category": "DR",
+      "relational_entity": "u"
+    },
+
+    {
+      "target_entity": "Johnson, Andrew Kim",
+      "relation_category": "DR",
+      "relational_entity": "Johnson, Andrew Kim"
+    },
+
+    {
+      "target_entity": "Strobe",
+      "relation_category": "DR",
+      "relational_entity": "Strobe"
+    },
+
+    {
+      "target_entity": "S_SpecialAssistants",
+      "relation_category": "DR",
+      "relational_entity": "S_SpecialAssistants"
+    },
+    {
+      "target_entity": "SES-O_Shift-1l",
+      "relation_category": "DR",
+      "relational_entity": "SES-O_Shift-1l"
+    },
+
+    {
+      "target_entity": "U.S. Department of State",
+      "relation_category": "NPUI",
+      "relational_entity": "Watch Officer"
+    },
+    {
+      "target_entity": "U.S. Department of State",
+      "relation_category": "NPUI",
+      "relational_entity": "State Department Operations Center"
+    },
+    {
+      "target_entity": "U.S. Department of State",
+      "relation_category": "NPUI",
+      "relational_entity": "202-647-1512"
+    },
+    {
+      "target_entity": "U.S. Department of State",
+      "relation_category": "DR",
+      "relational_entity": "We"
+    }
+  ]
+}

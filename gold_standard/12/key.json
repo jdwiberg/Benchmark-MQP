@@ -1,0 +1,44 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Enron Announcements",
+      "relation_category": "NPUI",
+      "relational_entity": "enron.announcements@enron.com"
+    },
+    {
+      "target_entity": "ENW-Employees",
+      "relation_category": "NPUI",
+      "relational_entity": "enw-employees@enron.com"
+    },
+    {
+      "target_entity": "Enron Announcements",
+      "relation_category": "DR",
+      "relational_entity": "Enron Announcements"
+    },
+    {
+      "target_entity": "ENW-Employees",
+      "relation_category": "DR",
+      "relational_entity": "ENW-Employees"
+    },
+    {
+      "target_entity": "Arora Harpreet",
+      "relation_category": "DR",
+      "relational_entity": "\\Harpreet_Arora_Nov2001"
+    },
+    {
+      "target_entity": "Arora Harpreet",
+      "relation_category": "DR",
+      "relational_entity": "ARORA-H"
+    },
+    {
+      "target_entity": "Arora Harpreet",
+      "relation_category": "DR",
+      "relational_entity": "harora.nsf"
+    },
+    {
+      "target_entity": "Enron Net Works",
+      "relation_category": "DR",
+      "relational_entity": "Enron Net Works"
+    }
+  ]
+}

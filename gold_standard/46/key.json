@@ -1,0 +1,89 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "DR",
+      "relational_entity": "Stern, Todd D (S/SECC)"
+    },
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "SI",
+      "relational_entity": "SternTD@state.gov"
+    },
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "DR",
+      "relational_entity": "Todd"
+    },
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "DR",
+      "relational_entity": "your great work"
+    },
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": "Todd Stern",
+      "relation_category": "DR",
+      "relational_entity": "we both"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "SI",
+      "relational_entity": "HDR22@clintonemail.com"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "Hillary"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "your unwavering support"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "Your diplomacy Thursday"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "we both"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "the President",
+      "relation_category": "DR",
+      "relational_entity": "the President"
+    },
+    {
+      "target_entity": "Jen",
+      "relation_category": "DR",
+      "relational_entity": "Jen"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+AGREEMENT AND RELEASE
+
+This Agreement is entered into on 12/15/2024 between John Smith (hereinafter "Employee") and TechCorp Inc. (hereinafter "Company"), a Delaware corporation with its principal office located at 123 Main Street, San Francisco, California.
+
+RECITALS
+WHEREAS, Employee has been employed by Company since January 1, 2020, in the position of Senior Software Engineer;
+
+WHEREAS, the parties wish to resolve all matters arising from Employee's employment and separation from Company;
+
+1. SEPARATION DATE
+Employee's last day of employment with Company shall be December 31, 2024.
+
+3. BENEFITS
+Employee's health insurance benefits through Blue Cross Blue Shield shall continue until March 31, 2025.
+
+5. REFERENCES
+Company agrees that any employment verification requests shall be directed to HR Director Sarah Johnson at hr@techcorp.com or (508) 123-4567.
+
+6. CONFIDENTIALITY
+Employee agrees to maintain confidentiality of all proprietary information, trade secrets, and client data including but not limited to information related to GlobalBank LLC, MegaRetail Corp., and other clients.
+
+7. NON-COMPETE
+Employee agrees not to work for direct competitors including SoftwareCo, DataSystems Inc., or CloudTech LLC for a period of one year from the separation date.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EMPLOYEE:
+_________________________
+John Smith
+Date: 12/15/2024
+
+COMPANY:
+_________________________
+Michael Chen, CEO
+TechCorp Inc.
+Date: 12/15/2024
+
+WITNESS:
+_________________________
+Jennifer Williams
+Senior HR Manager
+Date: 12/15/2024

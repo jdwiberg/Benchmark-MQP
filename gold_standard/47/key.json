@@ -1,0 +1,49 @@
+{
+  "relationship_triplets": [
+   {
+      "target_entity": "Craig Kelly",
+      "relation_category": "DR",
+      "relational_entity": "Kelly, Craig A"
+    },
+    {
+      "target_entity": "Craig Kelly",
+      "relation_category": "SI",
+      "relational_entity": "KellyC@state.gov"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": "Arturo A Valenzuela",
+      "relation_category": "DR",
+      "relational_entity": "Valenzuela, Arturo A"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "Madam Secretary"
+    },
+    {
+      "target_entity": "Craig Kelly",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Judith",
+      "relation_category": "DR",
+      "relational_entity": "Judith"
+    },
+    {
+      "target_entity": "Craig Kelly",
+      "relation_category": "DR",
+      "relational_entity": "Craig"
+    },
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "SI",
+      "relational_entity": "HDR22@clintonemail.com"
+    }
+  ]
+}

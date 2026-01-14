@@ -1,0 +1,76 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "Mills, Cheryl D"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "SI",
+      "relational_entity": "<MillsCD@state.gov>"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "Cheryl"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "your note"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "you and your family"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": "Cheryl D. Mills",
+      "relation_category": "DR",
+      "relational_entity": "our"
+    },
+
+    {
+      "target_entity": "Thomas A. Shannon",
+      "relation_category": "DR",
+      "relational_entity": "Shannon, Thomas A"
+    },
+    {
+      "target_entity": "Thomas A. Shannon",
+      "relation_category": "DR",
+      "relational_entity": "Tom"
+    },
+    {
+      "target_entity": "Thomas A. Shannon",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Thomas A. Shannon",
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": "Thomas A. Shannon",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+
+    {
+      "target_entity": "Hillary Clinton",
+      "relation_category": "DR",
+      "relational_entity": "the Secretary"
+    }
+  ]
+}

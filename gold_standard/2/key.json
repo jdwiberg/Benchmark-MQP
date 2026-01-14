@@ -1,0 +1,54 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Patrick Mulvany",
+      "relation_category": "DR",
+      "relational_entity": "Patrick Mulvany"
+    },
+    {
+      "target_entity": "Darron C Giron",
+      "relation_category": "DR",
+      "relational_entity": "Darron C Giron"
+    },
+    {
+      "target_entity": "Frank Ermis",
+      "relation_category": "DR",
+      "relational_entity": "Frank Ermis' trades"
+    },
+    {
+      "target_entity": "Darron C Giron",
+      "relation_category": "DR",
+      "relational_entity": "Darron"
+    },
+    {
+      "target_entity": "BANKAMENAT",
+      "relation_category": "DR",
+      "relational_entity": "Counterparty name"
+    },
+    {
+      "target_entity": "The broker",
+      "relation_category": "DR",
+      "relational_entity": "The broker"
+    },
+    {
+      "target_entity": "BANKAMENAT",
+      "relation_category": "DR",
+      "relational_entity": "BANKAMENAT"
+    },
+    {
+      "target_entity": "Carole",
+      "relation_category": "DR",
+      "relational_entity": "Carole"
+    },
+    {
+      "target_entity": "Darron",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": "Patrick Mulvany",
+      "relation_category": "DR",
+      "relational_entity": "Patrick"
+    }
+  ]
+}

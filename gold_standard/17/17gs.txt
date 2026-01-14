@@ -1,0 +1,12 @@
+To: Darron C Giron/HOU/ECT@ECT
+cc: Julie Brewer/NA/Enron@Enron, Jean Bell/HOU/ECT@ECT 
+Subject: TAGG-Annuities
+
+Darron,
+
+For audit purposes, can you give us a brief description of where the value 
+for annuities in TAGG as V42434.9 and V42434.A.  We'll add some comments to 
+TAGG to cover ourselves or send out Termination Agreements if necessary.
+
+Thanks,
+Joe Hunter

@@ -1,0 +1,49 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "eRequest",
+      "relation_category": "NPUI",
+      "relational_entity": "erequest@enron.com"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "NPUI",
+      "relational_entity": "harry.arora@enron.com"
+    },
+    {
+      "target_entity": "eRequest",
+      "relation_category": "NPUI",
+      "relational_entity": "erequest@enron.com"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "NPUI",
+      "relational_entity": "harry.arora@enron.com"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "DR",
+      "relational_entity": "(Harry Arora)"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "SI",
+      "relational_entity": "6783"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": "Harry Arora",
+      "relation_category": "DR",
+      "relational_entity": "you"
+    }
+  ]
+}

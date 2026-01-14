@@ -1,0 +1,64 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Chris Dorland",
+      "relation_category": "NPUI",
+      "relational_entity": "chris.dorland@enron.com"
+    },
+    {
+      "target_entity": "Mike George",
+      "relation_category": "NPUI",
+      "relational_entity": "george@enron.com"
+    },
+    {
+      "target_entity": "Mike George",
+      "relation_category": "NPUI",
+      "relational_entity": "migeorge@deloitte.ca"
+    },
+    {
+      "target_entity": "Chris Dorland",
+      "relation_category": "DR",
+      "relational_entity": "Chris Dorland"
+    },
+    {
+      "target_entity": "Mike George",
+      "relation_category": "DR",
+      "relational_entity": "George, Mike"
+    },
+    {
+      "target_entity": "Mike George",
+      "relation_category": "NPUI",
+      "relational_entity": "(CA - Calgary)"
+    },
+    {
+      "target_entity": "Mike George",
+      "relation_category": "NPUI",
+      "relational_entity": "<migeorge@deloitte.ca>"
+    },
+    {
+      "target_entity": "Ryan",
+      "relation_category": "DR",
+      "relational_entity": "Ryan"
+    },
+    {
+      "target_entity": "Chris Dorland",
+      "relation_category": "DR",
+      "relational_entity": "my"
+    },
+    {
+      "target_entity": "Dad",
+      "relation_category": "DR",
+      "relational_entity": "my Dad"
+    },
+    {
+      "target_entity": "Chris Dorland",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Chris Dorland",
+      "relation_category": "DR",
+      "relational_entity": "Chris"
+    }
+  ]
+}

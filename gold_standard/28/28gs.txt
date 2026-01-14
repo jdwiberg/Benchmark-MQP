@@ -1,0 +1,8 @@
+Sender: Rachel Kim  
+Hi Tom, Dr. Lee sent me a message about my lab results. It’s not urgent, just a reminder to schedule a follow-up next week.  
+
+Receiver: Tom (Orion Data Group)  
+Thanks for letting me know, Rachel. Please make sure HR updates your employee health record.  
+
+Sender: Rachel Kim  
+I’ve already forwarded the email to hr@oriondata.co.
