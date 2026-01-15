@@ -1,0 +1,34 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "EB",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["EB", "JE"],
+      "relation_category": "DR",
+      "relational_entity": "Lets"
+    },
+    {
+      "target_entity": "JE",
+      "relation_category": "DR",
+      "relational_entity": "JE"
+    },
+    {
+      "target_entity": ["EB", "JE"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": "the Rothchilds",
+      "relation_category": "DR",
+      "relational_entity": "certain people"
+    },  
+    {
+      "target_entity": "the Rothchilds",
+      "relation_category": "DR",
+      "relational_entity": "the rothchilds"
+    }
+  ]
+}

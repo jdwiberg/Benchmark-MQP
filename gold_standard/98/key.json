@@ -1,0 +1,64 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey Epstein"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": "Ehud Barak",
+      "relation_category": "DR",
+      "relational_entity": "ehud barak"
+    },
+    {
+      "target_entity": "Ehud Barak",
+      "relation_category": "SI",
+      "relational_entity": "ehbarak1@gmail.com"
+    },
+    {
+      "target_entity": "Putin",
+      "relation_category": "DR",
+      "relational_entity": "Putin"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "DR",
+      "relational_entity": "i"
+    },
+    {
+      "target_entity": "Putin",
+      "relation_category": "DR",
+      "relational_entity": "his"
+    },
+    {
+      "target_entity": "Jeffrey Epstein",
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": "Putin",
+      "relation_category": "DR",
+      "relational_entity": "him"
+    },
+    {
+      "target_entity": "Putin",
+      "relation_category": "DR",
+      "relational_entity": "he"
+    },
+    {
+      "target_entity": "Putin",
+      "relation_category": "DR",
+      "relational_entity": "he"
+    },
+    {
+      "target_entity": ["Jeffrey Epstein", "Ehud Barak"],
+      "relation_category": "SI",
+      "relational_entity": "we"
+    }
+  ]
+}

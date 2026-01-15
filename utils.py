@@ -1,9 +1,9 @@
 import os
 
 
-def make_key(start: int, end: int):
+def make_key(dir_pref: str, start: int, end: int):
     for i in range(start, end+1):
-        dir = "artem_gs/" + str(i)
+        dir = dir_pref + str(i)
         for name in os.listdir(dir):
             if name == "entities.txt":
                 filepath = os.path.join(dir, name)
@@ -26,7 +26,7 @@ def remove_entities(dir_pref: str, start: int, end: int):
                 filepath = os.path.join(dir, name)
                 os.unlink(filepath)
 
-remove_entities("artem_gs/", 67, 84)
+
 
 
 
