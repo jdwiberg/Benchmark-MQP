@@ -1,7 +1,6 @@
 import os
 import json
 
-
 def make_key(dir_pref: str, start: int, end: int):
     for i in range(start, end+1):
         dir = dir_pref + str(i)
@@ -67,17 +66,15 @@ def make_full_json(start: int, end: int):
                         out.close()
                         t.close()
                         k.close()
-            
-
-            
 
 def rename_all():
     for i in range(0, 100):
         dir = "gold_standard/" + str(i)
         for name in os.listdir(dir):
             pth = os.path.join(dir, name)
-            if name == "key2.json":
-                os.rename(pth, os.path.join(dir, "key.json"))
+            if name == f"{i}data.json":
+                os.rename(pth, os.path.join(dir, f"{i}_gs_data.json"))
+
+rename_all()
 
 
-make_full_json(0, 99)
