@@ -70,10 +70,11 @@ def make_full_json(start: int, end: int):
 def rename_all():
     for i in range(0, 100):
         dir = "gold_standard/" + str(i)
+        new_dir = "gs_jsons/"
         for name in os.listdir(dir):
             pth = os.path.join(dir, name)
-            if name == f"{i}data.json":
-                os.rename(pth, os.path.join(dir, f"{i}_gs_data.json"))
+            if name == f"{i}_gs_data.json":
+                os.rename(pth, os.path.join(new_dir, f"{i}_gs_data.json"))
 
 rename_all()
 
