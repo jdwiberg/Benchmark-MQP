@@ -1,47 +1,47 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Tobias Munk",
+      "target_entity": ["Tobias Munk"],
       "relation_category": "NPUI",
       "relational_entity": "tobias.munk@enron.com"
     },
     {
-      "target_entity": "Harry Arora",
+      "target_entity": ["Harry Arora"],
       "relation_category": "NPUI",
       "relational_entity": "harry.arora@enron.com"
     },
     {
-      "target_entity": "Suresh Raghavan",
+      "target_entity": ["Suresh Raghavan"],
       "relation_category": "NPUI",
       "relational_entity": "suresh.raghavan@enron.com"
     },
     {
-      "target_entity": "John Spitz",
+      "target_entity": ["John Spitz"],
       "relation_category": "NPUI",
       "relational_entity": "john.spitz@enron.com"
     },
     {
-      "target_entity": "Tobias Munk",
+      "target_entity": ["Tobias Munk"],
       "relation_category": "DR",
       "relational_entity": "Tobias Munk"
     },    
     {
-      "target_entity": "Harry Arora",
+      "target_entity": ["Harry Arora"],
       "relation_category": "DR",
       "relational_entity": "Harry Arora"
     },
     {
-      "target_entity": "Suresh Raghavan",
+      "target_entity": ["Suresh Raghavan"],
       "relation_category": "NPUI",
       "relational_entity": "suresh.raghavan@enron.com"
     },
     {
-      "target_entity": "John Spitz",
+      "target_entity": ["John Spitz"],
       "relation_category": "NPUI",
       "relational_entity": "John Spitz"
     },
     {
-      "target_entity": "Harry Arora",
+      "target_entity": ["Harry Arora"],
       "relation_category": "DR",
       "relational_entity": "Harry"
     },
@@ -51,7 +51,7 @@
       "relational_entity": "us"
     },
     {
-      "target_entity": "Tobias Munk",
+      "target_entity": ["Tobias Munk"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
@@ -61,17 +61,17 @@
       "relational_entity": "you"
     },
     {
-      "target_entity": "the Chairman",
+      "target_entity": ["the Chairman"],
       "relation_category": "DR",
       "relational_entity": "the Chairman"
     },
     {
-      "target_entity": "the Chairman",
+      "target_entity": ["the Chairman"],
       "relation_category": "NPUI",
       "relational_entity": "27th floor"
     },
     {
-      "target_entity": "Tobias Munk",
+      "target_entity": ["Tobias Munk"],
       "relation_category": "DR",
       "relational_entity": "tobias"
     }

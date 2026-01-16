@@ -1,97 +1,97 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "Janet Butler"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "SI",
       "relational_entity": "janet.butler@enron.com"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "Stanley Horton"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "SI",
       "relational_entity": "stanley.horton@enron.com"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "Stan"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "a leader",
+      "target_entity": ["a leader"],
       "relation_category": "DR",
       "relational_entity": "a leader"
     },
     {
-      "target_entity": "a leader",
+      "target_entity": ["a leader"],
       "relation_category": "DR",
       "relational_entity": "your"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "my leader"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "your"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Janet Butler",
+      "target_entity": ["Janet Butler"],
       "relation_category": "DR",
       "relational_entity": "me"
     }

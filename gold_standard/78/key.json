@@ -1,230 +1,230 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "ehud barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "A. de Rothschild"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "SI",
       "relational_entity": "ader@aderfam.ch"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "Ariane"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I'll"
     },
 
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "A. de Rothschild"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "SI",
       "relational_entity": "ader@aderfam.ch"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud"
     },
     {
-      "target_entity": "The Driver",
+      "target_entity": ["The Driver"],
       "relation_category": "DR",
       "relational_entity": "The driver"
     },
         {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "Ariane"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "ehud barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "Ariane"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "A. de Rothschild"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "SI",
       "relational_entity": "ader@aderfam.ch"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "ehud barak",
+      "target_entity": ["ehud barak"],
       "relation_category": "dr",
       "relational_entity": "you"
     },
     {
-      "target_entity": "ehud barak",
+      "target_entity": ["ehud barak"],
       "relation_category": "dr",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "ehud barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "Ariane"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I'll"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I've"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "jeffrey E."
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "A. de Rothschild"
     },
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "SI",
       "relational_entity": "ader@aderfam.ch"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "ehud barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
 
     {
-      "target_entity": "Ariane de Rothschild",
+      "target_entity": ["Ariane de Rothschild"],
       "relation_category": "DR",
       "relational_entity": "Ariane"
     },
 
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud"
     }

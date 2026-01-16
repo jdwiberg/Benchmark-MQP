@@ -1,77 +1,77 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "NPUI",
       "relational_entity": "darron.giron@enron.com"
     },
     {
-      "target_entity": "Kent & Karen Pope",
+      "target_entity": ["Kent & Karen Pope"],
       "relation_category": "SI",
       "relational_entity": "kwpope@pdq.net"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "DR",
       "relational_entity": "Darron C Giron"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "DR",
       "relational_entity": "I'll"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "They",
+      "target_entity": ["They"],
       "relation_category": "DR",
       "relational_entity": "They"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "DR",
       "relational_entity": "i"
     },
     {
-      "target_entity": "Kent & Karen Pope",
+      "target_entity": ["Kent & Karen Pope"],
       "relation_category": "DR",
       "relational_entity": "Kent & Karen Pope"
     },
     {
-      "target_entity": "Kent and Karen Pope",
+      "target_entity": ["Kent and Karen Pope"],
       "relation_category": "SI",
       "relational_entity": "<kwpope@pdq.net>"
     },
     {
-      "target_entity": "Dan Kessler",
+      "target_entity": ["Dan Kessler"],
       "relation_category": "DR",
       "relational_entity": "Dan Kessler"
     },
     {
-      "target_entity": "Dan Kessler",
+      "target_entity": ["Dan Kessler"],
       "relation_category": "SI",
       "relational_entity": "dan@vcrhouston.com"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "DR",
       "relational_entity": "Darron C. Giron"
     },
     {
-      "target_entity": "Darron Giron",
+      "target_entity": ["Darron Giron"],
       "relation_category": "NPUI",
       "relational_entity": "Darron.C.Giron@enron.com"
     },
     {
-      "target_entity": "Nancy Johnson",
+      "target_entity": ["Nancy Johnson"],
       "relation_category": "DR",
       "relational_entity": "Nancy Johnson"
     },
     {
-      "target_entity": "Nancy Johnson",
+      "target_entity": ["Nancy Johnson"],
       "relation_category": "SI",
       "relational_entity": "njj-rlj@worldnet.att.net"
     },
@@ -81,12 +81,12 @@
       "relational_entity": "the smartest people I know"
     },
     {
-      "target_entity": "Karen Pope",
+      "target_entity": ["Karen Pope"],
       "relation_category": "DR",
       "relational_entity": "i"
     },
     {
-      "target_entity": "Karen Pope",
+      "target_entity": ["Karen Pope"],
       "relation_category": "DR",
       "relational_entity": "i've"
     },
@@ -96,7 +96,7 @@
       "relational_entity": "you"
     },
     {
-      "target_entity": "Karen Pope",
+      "target_entity": ["Karen Pope"],
       "relation_category": "DR",
       "relational_entity": "karen"
     }

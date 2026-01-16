@@ -1,142 +1,142 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Texas Utilities",
+      "target_entity": ["Texas Utilities"],
       "relation_category": "NPUI",
       "relational_entity": "gward1@txu.com"
     },
     {
-      "target_entity": "Operations@ercot.com",
+      "target_entity": ["Operations@ercot.com"],
       "relation_category": "NPUI",
       "relational_entity": "operations@ercot.com"
     },
     {
-      "target_entity": "PUCT Staff",
+      "target_entity": ["PUCT Staff"],
       "relation_category": "DR",
       "relational_entity": "PUCT Staff"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "Jerry Ward"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "NPUI",
       "relational_entity": "gward1@txu.com"
     },
     {
-      "target_entity": "Operations@ercot.com",
+      "target_entity": ["Operations@ercot.com"],
       "relation_category": "NPUI",
       "relational_entity": "Operations@ercot.com"
     },
     {
-      "target_entity": "PUCT Staff",
+      "target_entity": ["PUCT Staff"],
       "relation_category": "DR",
       "relational_entity": "PUCT"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "Jerry Ward"
     },
     {
-      "target_entity": "Texas Utilities",
+      "target_entity": ["Texas Utilities"],
       "relation_category": "DR",
       "relational_entity": "Texas Utilities"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "Jerry Ward"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "NPUI",
       "relational_entity": "gward1@txu.com"
     },
     {
-      "target_entity": "Operations@ercot.com",
+      "target_entity": ["Operations@ercot.com"],
       "relation_category": "NPUI",
       "relational_entity": "Operations@ercot.com"
     },
     {
-      "target_entity": "OWG Members",
+      "target_entity": ["OWG Members"],
       "relation_category": "DR",
       "relational_entity": "OWG Members"
     },
     {
-      "target_entity": "PUCT Staff",
+      "target_entity": ["PUCT Staff"],
       "relation_category": "DR",
       "relational_entity": "Commission Staff"
     },
     {
-      "target_entity": "Jerry Ward, OWG Members",
+      "target_entity": ["Jerry Ward, OWG Members"],
       "relation_category": "DR",
       "relational_entity": "we"
     },
     {
-      "target_entity": "ERCOT",
+      "target_entity": ["ERCOT"],
       "relation_category": "DR",
       "relational_entity": "ERCOT"
     },
     {
-      "target_entity": "OWG Members",
+      "target_entity": ["OWG Members"],
       "relation_category": "DR",
       "relational_entity": "members of the OWG"
     },
     {
-      "target_entity": "PUCT Staff",
+      "target_entity": ["PUCT Staff"],
       "relation_category": "DR",
       "relational_entity": "the Staff"
     },
     {
-      "target_entity": "Reliant",
+      "target_entity": ["Reliant"],
       "relation_category": "DR",
       "relational_entity": "Reliant"
     },
     {
-      "target_entity": "PUCT",
+      "target_entity": ["PUCT"],
       "relation_category": "DR",
       "relational_entity": "the PUCT"
     },
     {
-      "target_entity": "Mark Walker",
+      "target_entity": ["Mark Walker"],
       "relation_category": "DR",
       "relational_entity": "Mark Walker"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
     {
-      "target_entity": "Mark Walker",
+      "target_entity": ["Mark Walker"],
       "relation_category": "DR",
       "relational_entity": "Mark"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "JW"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "PHI",
       "relational_entity": "a surgery"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "SI",
       "relational_entity": "Cell 214-926-8637"
     },
     {
-      "target_entity": "Jerry Ward",
+      "target_entity": ["Jerry Ward"],
       "relation_category": "SI",
       "relational_entity": "Office 214-875-9254"
     }

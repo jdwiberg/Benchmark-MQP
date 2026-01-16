@@ -1,72 +1,72 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Darron C Giron",
+      "target_entity": ["Darron C Giron"],
       "relation_category": "DR",
       "relational_entity": "Darron C Giron/HOU/ECT"
     },
     {
-      "target_entity": "Mark Ebert",
+      "target_entity": ["Mark Ebert"],
       "relation_category": "SI",
       "relational_entity": "Mark.Ebert@broadwing.com"
     },
     {
-      "target_entity": "BryLad5",
+      "target_entity": ["BryLad5"],
       "relation_category": "SI",
       "relational_entity": "BryLad5@aol.com"
     },
     {
-      "target_entity": "Darron C Giron",
+      "target_entity": ["Darron C Giron"],
       "relation_category": "NPUI",
       "relational_entity": "dgiron@ect.enron.com"
     },
     {
-      "target_entity": "David Long",
+      "target_entity": ["David Long"],
       "relation_category": "NPUI",
       "relational_entity": "david.long@tdhca.state.tx.us"
     },
     {
-      "target_entity": "Keith Key",
+      "target_entity": ["Keith Key"],
       "relation_category": "SI",
       "relational_entity": "keykeith@mindspring.com"
     },
     {
-      "target_entity": "George Ewton",
+      "target_entity": ["George Ewton"],
       "relation_category": "SI",
       "relational_entity": "george.ewton@unisys.com"
     },
     {
-      "target_entity": "Heather Hodnett",
+      "target_entity": ["Heather Hodnett"],
       "relation_category": "NPUI",
       "relational_entity": "heather.hodnett@tdhca.state.tx.us"
     },
     {
-      "target_entity": "BJ Nelson",
+      "target_entity": ["BJ Nelson"],
       "relation_category": "SI",
       "relational_entity": "bjnelson81@uswest.net"
     },
     {
-      "target_entity": "jw",
+      "target_entity": ["jw"],
       "relation_category": "NPUI",
       "relational_entity": "jw@cleartrading.com"
     },
     {
-      "target_entity": "kelang",
+      "target_entity": ["kelang"],
       "relation_category": "SI",
       "relational_entity": "kelang@mmm.com"
     },
     {
-      "target_entity": "Keith Doran",
+      "target_entity": ["Keith Doran"],
       "relation_category": "NPUI",
       "relational_entity": "keith.doran@tdhca.state.tx.us"
     },
     {
-      "target_entity": "SPSMITHCPA@aol.com",
+      "target_entity": ["SPSMITHCPA@aol.com"],
       "relation_category": "SI",
       "relational_entity": "SPSMITHCPA@aol.com"
     },
     {
-      "target_entity": "swash",
+      "target_entity": ["swash"],
       "relation_category": "SI",
       "relational_entity": "swash@tdhca.state.tx.us"
     }

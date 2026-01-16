@@ -1,27 +1,27 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Huma Abedin",
+      "target_entity": ["Huma Abedin"],
       "relation_category": "DR",
       "relational_entity": "Abedin, Huma"
     },
     {
-      "target_entity": "Huma Abedin",
+      "target_entity": ["Huma Abedin"],
       "relation_category": "SI",
       "relational_entity": "AbedinH@state.gov"
     },
     {
-      "target_entity": "H",
+      "target_entity": ["H"],
       "relation_category": "DR",
       "relational_entity": "H"
     },
     {
-      "target_entity": "Mubarak",
+      "target_entity": ["Mubarak"],
       "relation_category": "DR",
       "relational_entity": "Mubarak"
     },
     {
-      "target_entity": "H",
+      "target_entity": ["H"],
       "relation_category": "DR",
       "relational_entity": "you"
     }

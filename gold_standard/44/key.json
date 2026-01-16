@@ -1,52 +1,52 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Huma Abedin",
+      "target_entity": ["Huma Abedin"],
       "relation_category": "DR",
       "relational_entity": "Abedin, Huma"
     },
     {
-      "target_entity": "Huma Abedin",
+      "target_entity": ["Huma Abedin"],
       "relation_category": "SI",
       "relational_entity": "<AbedinH@state.gov >"
     },
     {
-      "target_entity": "Huma Abedin",
+      "target_entity": ["Huma Abedin"],
       "relation_category": "DR",
       "relational_entity": "Abed in, Huma"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "DR",
       "relational_entity": "Victoria DeLong"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "PHI",
       "relational_entity": "the officer who died in Haiti"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "NPUI",
       "relational_entity": "Cultural Affairs Officer in Haiti"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "NPUI",
       "relational_entity": "Entered the service in 1983"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "NPUI",
       "relational_entity": "Office Management Specialist"
     },
     {
-      "target_entity": "Victoria DeLong",
+      "target_entity": ["Victoria DeLong"],
       "relation_category": "NPUI",
       "relational_entity": "Public Diplomacy officer in 1996"
     },
     {
-      "target_entity": "Craig Kelly",
+      "target_entity": ["Craig Kelly"],
       "relation_category": "DR",
       "relational_entity": "Craig Kelly"
     }

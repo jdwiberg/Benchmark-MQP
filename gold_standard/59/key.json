@@ -1,162 +1,162 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Cheryl D. Mills",
+      "target_entity": ["Cheryl D. Mills"],
       "relation_category": "DR",
       "relational_entity": "Mills, Cheryl D"
     },
     {
-      "target_entity": "Cheryl D. Mills",
+      "target_entity": ["Cheryl D. Mills"],
       "relation_category": "SI",
       "relational_entity": "MillsCD@state.gov"
     },
     {
-      "target_entity": "Jacob J. Lew",
+      "target_entity": ["Jacob J. Lew"],
       "relation_category": "DR",
       "relational_entity": "Lew, Jacob"
     },
     {
-      "target_entity": "Jacob J. Lew",
+      "target_entity": ["Jacob J. Lew"],
       "relation_category": "DR",
       "relational_entity": "Lew, Jacob J"
     },
     {
-      "target_entity": "Jacob J. Lew",
+      "target_entity": ["Jacob J. Lew"],
       "relation_category": "DR",
       "relational_entity": "Jack"
     },
     {
-      "target_entity": "Daniel F. Feldman",
+      "target_entity": ["Daniel F. Feldman"],
       "relation_category": "DR",
       "relational_entity": "Feldman, Daniel F"
     },
     {
-      "target_entity": "Daniel F. Feldman",
+      "target_entity": ["Daniel F. Feldman"],
       "relation_category": "DR",
       "relational_entity": "we"
     },
     {
-      "target_entity": "Daniel F. Feldman",
+      "target_entity": ["Daniel F. Feldman"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Daniel F. Feldman",
+      "target_entity": ["Daniel F. Feldman"],
       "relation_category": "DR",
       "relational_entity": "I've"
     },
     {
-      "target_entity": "Daniel F. Feldman",
+      "target_entity": ["Daniel F. Feldman"],
       "relation_category": "DR",
       "relational_entity": "Dan"
     },
     {
-      "target_entity": "Jacob J. Lew",
+      "target_entity": ["Jacob J. Lew"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Paul W. Jones",
+      "target_entity": ["Paul W. Jones"],
       "relation_category": "DR",
       "relational_entity": "Jones, Paul W"
     },
     {
-      "target_entity": "Piper Campbell",
+      "target_entity": ["Piper Campbell"],
       "relation_category": "DR",
       "relational_entity": "Campbell, Piper"
     },
     {
-      "target_entity": "Vikram Singh",
+      "target_entity": ["Vikram Singh"],
       "relation_category": "DR",
       "relational_entity": "Singh, Vikram"
     },
     {
-      "target_entity": "Vikram Singh",
+      "target_entity": ["Vikram Singh"],
       "relation_category": "DR",
       "relational_entity": "Vikram"
     },
     {
-      "target_entity": "Margaret B. McKean",
+      "target_entity": ["Margaret B. McKean"],
       "relation_category": "DR",
       "relational_entity": "McKean, Margaret B"
     },
     {
-      "target_entity": "Michael C. Keays",
+      "target_entity": ["Michael C. Keays"],
       "relation_category": "DR",
       "relational_entity": "Keays, Michael C"
     },
     {
-      "target_entity": "Michael C. Keays",
+      "target_entity": ["Michael C. Keays"],
       "relation_category": "DR",
       "relational_entity": "Michael Keays"
     },
     {
-      "target_entity": "Sean A. Misko",
+      "target_entity": ["Sean A. Misko"],
       "relation_category": "DR",
       "relational_entity": "Misko, Sean A"
     },
     {
-      "target_entity": "Jessica L. Simon",
+      "target_entity": ["Jessica L. Simon"],
       "relation_category": "DR",
       "relational_entity": "Simon, Jessica L"
     },
     {
-      "target_entity": "Ashley F. Bommer",
+      "target_entity": ["Ashley F. Bommer"],
       "relation_category": "DR",
       "relational_entity": "Bommer, Ashley F"
     },
     {
-      "target_entity": "Richard",
+      "target_entity": ["Richard"],
       "relation_category": "DR",
       "relational_entity": "Richard"
     },
     {
-      "target_entity": "Peggy",
+      "target_entity": ["Peggy"],
       "relation_category": "DR",
       "relational_entity": "Peggy"
     },
     {
-      "target_entity": "OIG",
+      "target_entity": ["OIG"],
       "relation_category": "NPUI",
       "relational_entity": "OIG"
     },
     {
-      "target_entity": "OIG",
+      "target_entity": ["OIG"],
       "relation_category": "DR",
       "relational_entity": "them"
     },
     {
-      "target_entity": "SRAP",
+      "target_entity": ["SRAP"],
       "relation_category": "NPUI",
       "relational_entity": "SRAP"
     },
     {
-      "target_entity": "SCA",
+      "target_entity": ["SCA"],
       "relation_category": "NPUI",
       "relational_entity": "SCA"
     },
     {
-      "target_entity": "INL",
+      "target_entity": ["INL"],
       "relation_category": "NPUI",
       "relational_entity": "INL"
     },
     {
-      "target_entity": "Afghan desk",
+      "target_entity": ["Afghan desk"],
       "relation_category": "NPUI",
       "relational_entity": "Afghan desk"
     },
     {
-      "target_entity": "NYT",
+      "target_entity": ["NYT"],
       "relation_category": "NPUI",
       "relational_entity": "NYT"
     },
     {
-      "target_entity": "U.S. Department of State",
+      "target_entity": ["U.S. Department of State"],
       "relation_category": "NPUI",
       "relational_entity": "U.S. Department of State"
     },
     {
-      "target_entity": "Jacob J. Lew",
+      "target_entity": ["Jacob J. Lew"],
       "relation_category": "DR",
       "relational_entity": "we"
     }

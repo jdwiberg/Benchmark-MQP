@@ -1,77 +1,77 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Dana R Gibbs",
+      "target_entity": ["Dana R Gibbs"],
       "relation_category": "DR",
       "relational_entity": "Dana R Gibbs (dana.gibbs@enron.com)"
     },
     {
-      "target_entity": "Stanley Horton",
+      "target_entity": ["Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "Stanley Horton (stanley.horton@enron.com)"
     },
     {
-      "target_entity": "Phil Lowry",
+      "target_entity": ["Phil Lowry"],
       "relation_category": "DR",
       "relational_entity": "Phil Lowry"
     },
     {
-      "target_entity": "David Sztroin",
+      "target_entity": ["David Sztroin"],
       "relation_category": "DR",
       "relational_entity": "David Sztroin"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "DR",
       "relational_entity": "Jordan Hunter"
     },
     {
-      "target_entity": "Stan",
+      "target_entity": ["Stan"],
       "relation_category": "DR",
       "relational_entity": "Stanley Horton"
     },
     {
-      "target_entity": "Phil",
+      "target_entity": ["Phil"],
       "relation_category": "DR",
       "relational_entity": "Phil Lowry"
     },
     {
-      "target_entity": "Dana R Gibbs, David Sztroin, Jordan Hunter, Phil Lowry, Stanley Horton",
+      "target_entity": ["Dana R Gibbs, David Sztroin, Jordan Hunter, Phil Lowry, Stanley Horton"],
       "relation_category": "DR",
       "relational_entity": "our"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "DR",
       "relational_entity": "Jordan"
     },
     {
-      "target_entity": "David Sztroin",
+      "target_entity": ["David Sztroin"],
       "relation_category": "DR",
       "relational_entity": "David"
     },
     {
-      "target_entity": "Dan Cole",
+      "target_entity": ["Dan Cole"],
       "relation_category": "DR",
       "relational_entity": "Dan Cole"
     },
     {
-      "target_entity": "representatives",
+      "target_entity": ["representatives"],
       "relation_category": "DR",
       "relational_entity": "representatives"
     },
     {
-      "target_entity": "Boots Smith Construction",
+      "target_entity": ["Boots Smith Construction"],
       "relation_category": "DR",
       "relational_entity": "Boots Smith Construction"
     },
     {
-      "target_entity": "Boots Smith Construction",
+      "target_entity": ["Boots Smith Construction"],
       "relation_category": "DR",
       "relational_entity": "Boots Smith"
     },
     {
-      "target_entity": "representatives",
+      "target_entity": ["representatives"],
       "relation_category": "DR",
       "relational_entity": "he"
     },
@@ -81,17 +81,17 @@
       "relational_entity": "we"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "DR",
       "relational_entity": "Jordan"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "NPUI",
       "relational_entity": "Project Director for the project"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "DR",
       "relational_entity": "he"
     },
@@ -101,12 +101,12 @@
       "relational_entity": "we"
     },
     {
-      "target_entity": "Jordan Hunter",
+      "target_entity": ["Jordan Hunter"],
       "relation_category": "DR",
       "relational_entity": "Jordan"
     },
     {
-      "target_entity": "Dana R Gibbs",
+      "target_entity": ["Dana R Gibbs"],
       "relation_category": "DR",
       "relational_entity": "Dan"
     }

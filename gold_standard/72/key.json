@@ -1,166 +1,166 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "jeffrey E."
     },
     {
-      "target_entity": "Jeffrey E.",
+      "target_entity": ["Jeffrey E."],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     
     {
-      "target_entity": "Jeffrey E.",
+      "target_entity": ["Jeffrey E."],
       "relation_category": "DR",
       "relational_entity": "JE"
     },
     {
-      "target_entity": "Jeffrey E.",
+      "target_entity": ["Jeffrey E."],
       "relation_category": "DR",
       "relational_entity": "Jeff"
     },
     {
-      "target_entity": "Nili",
+      "target_entity": ["Nili"],
       "relation_category": "DR",
       "relational_entity": "Nili"
     },
     {
-      "target_entity": "Nili",
+      "target_entity": ["Nili"],
       "relation_category": "DR",
       "relational_entity": "she"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I'll"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "my"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "EB"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I'm"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "EB"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "jeffrey E."
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
 
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
 
     {
-      "target_entity": "EB",
+      "target_entity": ["EB"],
       "relation_category": "DR",
       "relational_entity": "EB"
     },
 
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "Jeff"
     },
     {
-      "target_entity": "Nili",
+      "target_entity": ["Nili"],
       "relation_category": "DR",
       "relational_entity": "Nili"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "EB"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "jeffrey E."
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "< jeevacation@gmail.com >"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "my"
     },
     {
-      "target_entity": "EB",
+      "target_entity": ["EB"],
       "relation_category": "DR",
       "relational_entity": "Ehud Barak"
     }, 
     {
-      "target_entity": "EB",
+      "target_entity": ["EB"],
       "relation_category": "SI",
       "relational_entity": "< ehbarak1@gmail.com> "
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "Jeff"
     },
     {
-      "target_entity": "EB",
+      "target_entity": ["EB"],
       "relation_category": "DR",
       "relational_entity": "EB"
     }

@@ -1,47 +1,47 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "SI",
       "relational_entity": "ehbarak1@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "Jeff"
     },
     {
-      "target_entity": "VV",
+      "target_entity": ["VV"],
       "relation_category": "DR",
       "relational_entity": "VV"
     },
     {
-      "target_entity": "Ehud Barak",
+      "target_entity": ["Ehud Barak"],
       "relation_category": "DR",
       "relational_entity": "He's"
     },
     {
-      "target_entity": "EB",
+      "target_entity": ["EB"],
       "relation_category": "DR",
       "relational_entity": "EB"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "jeefrey E."
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "SI",
       "relational_entity": "jeevacation@gmail.com"
     },
     {
-      "target_entity": "Jeffrey Epstein",
+      "target_entity": ["Jeffrey Epstein"],
       "relation_category": "DR",
       "relational_entity": "Im"
     }

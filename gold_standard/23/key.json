@@ -1,122 +1,122 @@
 {
     "relationship_triplets": [
         {
-            "target_entity": "Dr. Amanda Rivera",
+            "target_ent[ity": "Dr. Amanda Rivera"],
             "relation_category": "DR",
             "relational_entity": "Dr. Amanda Rivera"
         },
         {
-            "target_entity": "Boston General Hospital",
+            "target_ent[ity": "Boston General Hospital"],
             "relation_category": "DR",
             "relational_entity": "Boston General Hospital"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "Jonathan Liu"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "his"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "PHI",
             "relational_entity": "recent MRI scan"
         },
         {
-            "target_entity": "Dr. Amanda Rivera",
+            "target_ent[ity": "Dr. Amanda Rivera"],
             "relation_category": "DR",
             "relational_entity": "she"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "his"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "PHI",
             "relational_entity": "blood pressure had improved since April"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "Jonathan"
         },
         {
-            "target_entity": "BlueShield Insurance Group",
+            "target_ent[ity": "BlueShield Insurance Group"],
             "relation_category": "DR",
             "relational_entity": "BlueShield Insurance Group"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "his"
         },
         {
-            "target_entity": "Maria O’Neill",
+            "target_ent[ity": "Maria O’Neill"],
             "relation_category": "DR",
             "relational_entity": "his therapist"
         },
         {
-            "target_entity": "Maria O’Neill",
+            "target_ent[ity": "Maria O’Neill"],
             "relation_category": "DR",
             "relational_entity": "Maria O’Neill"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "he"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "SI",
             "relational_entity": "his personal address jonliu87@gmail.com"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "SI",
             "relational_entity": "his member ID BS-9032114"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "his"
         },
         {
-            "target_entity": "Emily",
+            "target_ent[ity": "Emily"],
             "relation_category": "DR",
             "relational_entity": "sister"
         },
         {
-            "target_entity": "Emily",
+            "target_ent[ity": "Emily"],
             "relation_category": "DR",
             "relational_entity": "Emily"
         },
         {
-            "target_entity": "Emily",
+            "target_ent[ity": "Emily"],
             "relation_category": "SI",
             "relational_entity": "45 Chestnut St., Cambridge, MA"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "him"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "DR",
             "relational_entity": "his"
         },
         {
-            "target_entity": "Jonathan Liu",
+            "target_ent[ity": "Jonathan Liu"],
             "relation_category": "PHI",
             "relational_entity": "virtual PTSD support group"
         },
         {
-            "target_entity": "Dr. Amanda Rivera",
+            "target_ent[ity": "Dr. Amanda Rivera"],
             "relation_category": "DR",
             "relational_entity": "Dr. Rivera"
         }

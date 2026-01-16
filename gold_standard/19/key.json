@@ -1,47 +1,47 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "NPUI",
       "relational_entity": "chris.dorland@enron.com"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "NPUI",
       "relational_entity": "lightfield@enron.com"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "SI",
       "relational_entity": "clightfield@velaw.com"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "Chris Dorland"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "DR",
       "relational_entity": "Lightfield, Crystal"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "DR",
       "relational_entity": "<Clightfield@velaw.com>"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Rob",
+      "target_entity": ["Rob"],
       "relation_category": "DR",
       "relational_entity": "Rob"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
@@ -56,52 +56,52 @@
       "relational_entity": "we"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "I'm"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "DR",
       "relational_entity": "your"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "my"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "SI",
       "relational_entity": "on Main Street"
     },
     {
-      "target_entity": "Crystal Lightfield",
+      "target_entity": ["Crystal Lightfield"],
       "relation_category": "DR",
       "relational_entity": "you"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "me"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "Chris"
     }

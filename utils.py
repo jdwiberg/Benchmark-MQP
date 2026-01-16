@@ -43,8 +43,12 @@ def make_list(start: int, end: int):
                     with open(os.path.join(dir, "key2.json"), 'w') as f:
                         f.writelines(lines)
 
+for i in range(0, 100):
+    dir = "gold_standard/" + str(i)
+    for name in os.listdir(dir):
+        pth = os.path.join(dir, name)
+        if name == "key2.json":
+            os.rename(pth, os.path.join(dir, "key.json"))
 
-
-make_list(0, 99)
 
 

@@ -1,42 +1,42 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "NPUI",
       "relational_entity": "chris.dorland@enron.com"
     },
     {
-      "target_entity": "George",
+      "target_entity": ["George"],
       "relation_category": "NPUI",
       "relational_entity": "george@enron.com"
     },
     {
-      "target_entity": "Mike",
+      "target_entity": ["Mike"],
       "relation_category": "NPUI",
       "relational_entity": "migeorge@deloitte.ca"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "Chris Dorland"
     },
     {
-      "target_entity": "George",
+      "target_entity": ["George"],
       "relation_category": "DR",
       "relational_entity": "George"
     },
     {
-      "target_entity": "Mike",
+      "target_entity": ["Mike"],
       "relation_category": "DR",
       "relational_entity": "Mike"
     },
     {
-      "target_entity": "Johnny",
+      "target_entity": ["Johnny"],
       "relation_category": "DR",
       "relational_entity": "Johnny"
     },
     {
-      "target_entity": "Chris Dorland",
+      "target_entity": ["Chris Dorland"],
       "relation_category": "DR",
       "relational_entity": "Chris"
     }

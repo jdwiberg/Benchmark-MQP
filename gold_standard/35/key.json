@@ -1,47 +1,47 @@
 {
   "relationship_triplets": [
     {
-      "target_entity": "Sullivan, Jacobi",
+      "target_entity": ["Sullivan, Jacobi"],
       "relation_category": "DR",
       "relational_entity": "Sullivan, Jacobi"
     },
     {
-      "target_entity": "Sullivan, Jacobi",
+      "target_entity": ["Sullivan, Jacobi"],
       "relation_category": "SI",
       "relational_entity": "Sullivanil@state.gov"
     },
     {
-      "target_entity": "Sullivan, Jacobi",
+      "target_entity": ["Sullivan, Jacobi"],
       "relation_category": "DR",
       "relational_entity": "I"
     },
     {
-      "target_entity": "Phil",
+      "target_entity": ["Phil"],
       "relation_category": "DR",
       "relational_entity": "Phil"
     },
     {
-      "target_entity": "Liz",
+      "target_entity": ["Liz"],
       "relation_category": "DR",
       "relational_entity": "Liz"
     },
     {
-      "target_entity": "DCM-note-taker",
+      "target_entity": ["DCM-note-taker"],
       "relation_category": "DR",
       "relational_entity": "DCM-note-taker"
     },
     {
-      "target_entity": "H",
+      "target_entity": ["H"],
       "relation_category": "DR",
       "relational_entity": "H"
     },
     {
-      "target_entity": "H",
+      "target_entity": ["H"],
       "relation_category": "SI",
       "relational_entity": "HDR22@clintonemail.com"
     },
     {
-      "target_entity": "Sarkozy",
+      "target_entity": ["Sarkozy"],
       "relation_category": "NPUI",
       "relational_entity": "Sarkozy mtg"
     }
