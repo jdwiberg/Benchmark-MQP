@@ -1,0 +1,75 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python tooling
+.python-version
+uv.lock
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --------------------
+# Hugging Face / Datasets
+# --------------------
+# Local HF cache (VERY IMPORTANT)
+.huggingface/
+cache/
+datasets_cache/
+**/.cache/
+
+# Saved Arrow datasets
+*.arrow
+*.parquet
+*.feather
+
+# If you ever use save_to_disk()
+dataset/
+hf_dataset/
+data_cache/
+
+# --------------------
+# Generated / runtime artifacts
+# --------------------
+logs/
+*.log
+outputs/
+results/
+metrics.json
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Secrets (just in case)
+# --------------------
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,23 @@
+{
+    "text": "original text is found here",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "target entity name",
+                    "crelational entity can reference multiple target entities"
+                ],
+                "relation_category": "DR (direct reference), SI (sensitive information), NPUI (non personal unique information), or PHI (personal health information)",
+                "relational_entity": "piece of text from original file that references the target entity"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey A Darron",
+                    "Elise C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            }
+        ]
+    }
+}
