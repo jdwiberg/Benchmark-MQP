@@ -1,5 +1,6 @@
 import os
 import json
+from datasets import load_dataset
 
 def make_key(dir_pref: str, start: int, end: int):
     for i in range(start, end+1):
@@ -76,6 +77,31 @@ def rename_all():
             if name == f"{i}_gs_data.json":
                 os.rename(pth, os.path.join(new_dir, f"{i}_gs_data.json"))
 
-rename_all()
+def debug():
+    dir = "gs_jsons/"
+    for name in os.listdir(dir):
+        with open(os.path.join(dir, name), "r") as f:
+            lines = f.readlines()
+            for line in lines:
+                if "relational_category" in line:
+                    print(name)
+            f.close()
+
+def hf_pipeline():
+    ds = load_dataset("json", data_files={"test": "gs_jsons/*.json"})
+    ds.push_to_hub("jdwiberg/benchmark-mqp-gs")
+    return ds
+
+def main():
+    pass
 
 
+if __name__ == "__main__":
+    # make_key("gold_standard/", 0, 99)
+    # remove_entities("gold_standard/", 0, 99)
+    # make_list(0, 99)
+    # make_full_json(0, 99)
+    # rename_all()
+    # debug()
+    # hf_pipeline()
+    main()

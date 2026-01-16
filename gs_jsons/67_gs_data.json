@@ -62,21 +62,21 @@
                 "target_entity": [
                     "Benad"
                 ],
-                "relational_category": "DR",
+                "relation_category": "DR",
                 "relational_entity": "Benad"
             },
             {
                 "target_entity": [
                     "Benad"
                 ],
-                "relational_category": "DR",
+                "relation_category": "DR",
                 "relational_entity": "Benad"
             },
             {
                 "target_entity": [
                     "Ehud Barak"
                 ],
-                "relational_category": "DR",
+                "relation_category": "DR",
                 "relational_entity": "EB"
             },
             {
@@ -125,7 +125,7 @@
                 "target_entity": [
                     "Ehud Barak"
                 ],
-                "relational_category": "DR",
+                "relation_category": "DR",
                 "relational_entity": "Ehud"
             },
             {
