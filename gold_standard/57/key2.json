@@ -1,0 +1,89 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "DR",
+      "relational_entity": "Mills, Cheryl D"
+    },
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "SI",
+      "relational_entity": "<MillsCD@state.gov >"
+    },
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "the Secretary"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "her speech to the prayer breakfast"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "her"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "DR",
+      "relational_entity": "Rosenthal, Hannah S"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "DR",
+      "relational_entity": "Hannah Rosenthal"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "DR",
+      "relational_entity": "Hannah"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "NPUI",
+      "relational_entity": "Special Envoy to Monitor and Combat Anti-Semitism"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "NPUI",
+      "relational_entity": "Bureau of Democracy, Human Rights and Labor"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "NPUI",
+      "relational_entity": "U.S. Department of State"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "NPUI",
+      "relational_entity": "Room 7802"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "NPUI",
+      "relational_entity": "(202) 647-2013"
+    },
+    {
+      "target_entity": ["Hannah Rosenthal"],
+      "relation_category": "SI",
+      "relational_entity": "RosenthaIHS@state.gov"
+    }
+  ]
+}

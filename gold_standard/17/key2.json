@@ -1,0 +1,49 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "DR",
+      "relational_entity": "Darron C Giron"
+    },
+    {
+      "target_entity": ["Julie Brewer"],
+      "relation_category": "DR",
+      "relational_entity": "Julie Brewer"
+    },
+    {
+      "target_entity": ["Jean Bell"],
+      "relation_category": "DR",
+      "relational_entity": "Jean Bell"
+    },
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "DR",
+      "relational_entity": "Darron"
+    },
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Joe Hunter", "Julie Brewer", "Jean Bell"],
+      "relation_category": "DR",
+      "relational_entity": "us"
+    },
+    {
+      "target_entity": ["Joe Hunter", "Julie Brewer", "Jean Bell"],
+      "relation_category": "DR",
+      "relational_entity": "We'll"
+    },
+    {
+      "target_entity": ["Joe Hunter", "Julie Brewer", "Jean Bell"],
+      "relation_category": "DR",
+      "relational_entity": "ourselves"
+    },
+    {
+      "target_entity": ["Joe Hunter"],
+      "relation_category": "DR",
+      "relational_entity": "Joe Hunter"
+    }
+  ]
+}

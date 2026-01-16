@@ -1,0 +1,79 @@
+{
+  "relationship_triplets": [
+   {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "DR",
+      "relational_entity": "Mills, Cheryl D"
+    },
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "SI",
+      "relational_entity": "MillsCD@state.gov"
+    },
+    {
+      "target_entity": ["Richard Verma"],
+      "relation_category": "DR",
+      "relational_entity": "Verma, Richard R"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "DR",
+      "relational_entity": "Feehery, Kerry (LeMieux)"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "SI",
+      "relational_entity": "Kerry_Feehery@LeMieux.senate.gov"
+    },
+    {
+      "target_entity": ["Benjamin Moncrief"],
+      "relation_category": "DR",
+      "relational_entity": "Moncrief, Benjamin (LeMieux)"
+    },
+    {
+      "target_entity": ["Benjamin Moncrief"],
+      "relation_category": "SI",
+      "relational_entity": "Benjamin_Moncrief@LeMieux.senate.gov"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "DR",
+      "relational_entity": "We"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "DR",
+      "relational_entity": "our cloakroom"
+    },
+    {
+      "target_entity": ["Shannon"],
+      "relation_category": "NPUI",
+      "relational_entity": "Shannon nomination"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "DR",
+      "relational_entity": "Kerry Feehery"
+    },
+    {
+      "target_entity": ["Kerry Feehery"],
+      "relation_category": "NPUI",
+      "relational_entity": "Chief of Staff"
+    },
+    {
+      "target_entity": ["George LeMieux"],
+      "relation_category": "DR",
+      "relational_entity": "Senator George LeMieux (R-FL)"
+    },
+    {
+      "target_entity": ["George LeMieux"],
+      "relation_category": "NPUI",
+      "relational_entity": "356 Russell Office Building"
+    },
+    {
+      "target_entity": ["George LeMieux"],
+      "relation_category": "SI",
+      "relational_entity": "(202)228-4945"
+    }
+  ]
+}

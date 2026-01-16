@@ -1,0 +1,64 @@
+{
+    "relationship_triplets": [
+        {
+      "target_entity": ["Huma Abedin"],
+      "relation_category": "DR",
+      "relational_entity": "Huma Abedin"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": ["ValmoroU@state.gov"],
+      "relation_category": "SI",
+      "relational_entity": "'ValmoroU@state.gov '"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Huma Abedin"],
+      "relation_category": "DR",
+      "relational_entity": "We"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": ["ValmoroU@state.gov"],
+      "relation_category": "SI",
+      "relational_entity": "ValmoroU@state.govi <ValmoroU@state.gov >"
+    },
+    {
+      "target_entity": ["Huma Abedin"],
+      "relation_category": "DR",
+      "relational_entity": "Huma Abedin"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["FM Sikorsky"],
+      "relation_category": "DR",
+      "relational_entity": "FM Sikorsky"
+    },
+    {
+      "target_entity": ["Community of Democracies"],
+      "relation_category": "NPUI",
+      "relational_entity": "Community of Democracies mtg"
+    },
+    {
+      "target_entity": ["FM Sikorsky"],
+      "relation_category": "DR",
+      "relational_entity": "He"
+    }
+    ]
+}

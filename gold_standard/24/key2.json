@@ -1,0 +1,84 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "NPUI",
+      "relational_entity": "harry.arora@enron.com"
+    },
+    {
+      "target_entity": ["Suresh Raghavan"],
+      "relation_category": "NPUI",
+      "relational_entity": "suresh.raghavan@enron.com"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "Harry Arora"
+    },
+    {
+      "target_entity": ["Suresh Raghavan"],
+      "relation_category": "DR",
+      "relational_entity": "Suresh Raghavan"
+    },
+    {
+      "target_entity": ["Suresh Raghavan"],
+      "relation_category": "DR",
+      "relational_entity": "Suresh"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "I'd"
+    },
+    {
+      "target_entity": ["Suresh Raghavan"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Zach"],
+      "relation_category": "DR",
+      "relational_entity": "Zach"
+    },
+    {
+      "target_entity": ["Networks group"],
+      "relation_category": "DR",
+      "relational_entity": "Networks group"
+    },
+    {
+      "target_entity": ["Networks group"],
+      "relation_category": "DR",
+      "relational_entity": "Sherri Thomas's group"
+    },
+    {
+      "target_entity": ["Sherri Thomas"],
+      "relation_category": "DR",
+      "relational_entity": "Sherri Thomas's group"
+    },
+    {
+      "target_entity": ["Ross"],
+      "relation_category": "DR",
+      "relational_entity": "Ross"
+    },
+    {
+      "target_entity": ["Don"],
+      "relation_category": "DR",
+      "relational_entity": "Don"
+    },
+    {
+      "target_entity": ["Toby"],
+      "relation_category": "DR",
+      "relational_entity": "Toby"
+    },
+    {
+      "target_entity": ["Miguel"],
+      "relation_category": "DR",
+      "relational_entity": "Miguel"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "Harry"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "Darren Indyke"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "dkiesq@aol.com"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "DR",
+      "relational_entity": "ehbarak"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "SI",
+      "relational_entity": "ehbarak1@gmail.com"
+    },
+    {
+      "target_entity": ["Knaani Udi"],
+      "relation_category": "DR",
+      "relational_entity": "Knaani Udi"
+    },
+    {
+      "target_entity": ["Knaani Udi"],
+      "relation_category": "SI",
+      "relational_entity": "udi@fwmk-law.co.il"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "DR",
+      "relational_entity": "Ehud"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Jeffrey"],
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey's"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },   
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "DARREN K. INDYKE"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "DR",
+      "relational_entity": "DARREN K. INDYKE, PLLC"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "575 Lexington Avenue, 4th Floor New York, New York 10022"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "(212) 971-1314"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "(646) 350-0378"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "(862) 485-6315"
+    },
+    {
+      "target_entity": ["Darren Indyke"],
+      "relation_category": "SI",
+      "relational_entity": "dkiesq@aol.com"
+    }
+  ]
+}

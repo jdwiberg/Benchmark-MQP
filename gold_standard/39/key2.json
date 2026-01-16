@@ -1,0 +1,114 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Jake Sullivan"],
+      "relation_category": "DR",
+      "relational_entity": "Jake Sullivan"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": ["Abedin"],
+      "relation_category": "DR",
+      "relational_entity": "Abed in, Huma (Clinton)"
+    },
+    {
+      "target_entity": ["Huma"],
+      "relation_category": "DR",
+      "relational_entity": "Abed in, Huma (Clinton)"
+    },
+    {
+      "target_entity": ["Brown"],
+      "relation_category": "DR",
+      "relational_entity": "PM Brown"
+    },
+    {
+      "target_entity": ["H"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["FM Peter Robinson"],
+      "relation_category": "DR",
+      "relational_entity": "FM Peter Robinson"
+    },
+    {
+      "target_entity": ["dFM Martin McGuinness"],
+      "relation_category": "DR",
+      "relational_entity": "dFM Martin McGuinness"
+    },
+    {
+      "target_entity": ["FM Peter Robinson"],
+      "relation_category": "DR",
+      "relational_entity": "their respective teams"
+    },
+    {
+      "target_entity": ["dFM Martin McGuinness"],
+      "relation_category": "DR",
+      "relational_entity": "their respective teams"
+    },
+    {
+      "target_entity": ["Sinn Fein"],
+      "relation_category": "DR",
+      "relational_entity": "Sinn Fein"
+    },
+    {
+      "target_entity": ["DUP"],
+      "relation_category": "DR",
+      "relational_entity": "the DUP"
+    },
+    {
+      "target_entity": ["Parades Commission"],
+      "relation_category": "NPUI",
+      "relational_entity": "Parades Commission"
+    },
+    {
+      "target_entity": ["Orange Order"],
+      "relation_category": "DR",
+      "relational_entity": "Orange Order"
+    },
+    {
+      "target_entity": ["Orange Order"],
+      "relation_category": "DR",
+      "relational_entity": "their"
+    },
+    {
+      "target_entity": ["OFM/dFM"],
+      "relation_category": "NPUI",
+      "relational_entity": "OFM/dFM selected panel"
+    },
+    {
+      "target_entity": ["SDLP"],
+      "relation_category": "DR",
+      "relational_entity": "SDLP"
+    },
+    {
+      "target_entity": ["PSNI"],
+      "relation_category": "NPUI",
+      "relational_entity": "PSNI"
+    },
+    {
+      "target_entity": ["UK government"],
+      "relation_category": "NPUI",
+      "relational_entity": "UK and Irish governments"
+    },
+    {
+      "target_entity": ["Irish governments"],
+      "relation_category": "NPUI",
+      "relational_entity": "UK and Irish governments"
+    },
+    {
+      "target_entity": ["Secretary of State Woodward"],
+      "relation_category": "DR",
+      "relational_entity": "Secretary of State Woodward"
+    },
+    {
+      "target_entity": ["Secretary of State Woodward"],
+      "relation_category": "DR",
+      "relational_entity": "he"
+    }
+  ]
+}

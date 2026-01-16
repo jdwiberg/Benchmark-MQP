@@ -1,0 +1,99 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "DR",
+      "relational_entity": "Lambert, C"
+    },
+    {
+      "target_entity": ["Mr. Horton"],
+      "relation_category": "DR",
+      "relational_entity": "Mr. Horton"
+    },
+    {
+      "target_entity": ["Enron"],
+      "relation_category": "DR",
+      "relational_entity": "Enron Wind Americas division"
+    },
+    {
+      "target_entity": ["Adam"],
+      "relation_category": "DR",
+      "relational_entity": "Adam"
+    },
+    {
+      "target_entity": ["Mike"],
+      "relation_category": "DR",
+      "relational_entity": "Mike"
+    },
+    {
+      "target_entity": ["Tod"],
+      "relation_category": "DR",
+      "relational_entity": "Tod"
+    },
+    {
+      "target_entity": ["Adam", "Mike", "Tom"],
+      "relation_category": "SI",
+      "relational_entity": "in Seattle"
+    },
+    {
+      "target_entity": ["Chris Lambert", "Adam", "Mike", "Todd"],
+      "relation_category": "DR",
+      "relational_entity": "We"
+    },
+    {
+      "target_entity": ["UBS"],
+      "relation_category": "DR",
+      "relational_entity": "UBS due dilligence team"
+    },
+    {
+      "target_entity": ["Mr. Horton"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Mr. Horton"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "SI",
+      "relational_entity": "(661) 823-6467"
+    },
+    {
+      "target_entity": ["Mr. Horton"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Mr. Horton"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },   
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "DR",
+      "relational_entity": "Chris Lambert"
+    },
+    {
+      "target_entity": ["Chris Lambert"],
+      "relation_category": "NPUI",
+      "relational_entity": "Director, Planning Americas"
+    },
+    {
+      "target_entity": ["Enron"],
+      "relation_category": "DR",
+      "relational_entity": "Enron Wind"
+    }
+  ]
+}

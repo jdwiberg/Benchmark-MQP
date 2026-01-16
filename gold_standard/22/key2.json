@@ -1,0 +1,64 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Marc Eichmann"],
+      "relation_category": "DR",
+      "relational_entity": "Marc Eichmann"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "Harry Arora/HOU/ECT@ECT"
+    },
+    {
+      "target_entity": ["Greg Piper"],
+      "relation_category": "DR",
+      "relational_entity": "Greg Piper/Corp/Enron@Enron"
+    },
+    {
+      "target_entity": ["ENRON"],
+      "relation_category": "NPUI",
+      "relational_entity": "Enron@Enron"
+    },
+    {
+      "target_entity": ["Marc Eichmann"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Greg Piper"],
+      "relation_category": "DR",
+      "relational_entity": "Greg Piper's"
+    },
+    {
+      "target_entity": ["traders"],
+      "relation_category": "DR",
+      "relational_entity": "traders"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Marc Eichmann"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Marc Eichmann"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Marc Eichmann"],
+      "relation_category": "DR",
+      "relational_entity": "Marc Eichmann"
+    }
+  ]
+}

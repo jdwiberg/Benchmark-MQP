@@ -1,0 +1,185 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "DR",
+      "relational_entity": "Mills, Cheryl D"
+    },
+    {
+      "target_entity": ["Cheryl Mills"],
+      "relation_category": "SI",
+      "relational_entity": "<MillsCD@state.gov >"
+    },
+
+    {
+      "target_entity": ["Patrick Kennedy"],
+      "relation_category": "DR",
+      "relational_entity": "Kennedy, Patrick F"
+    },
+
+    {
+      "target_entity": ["Senior consular officer in Brazil"],
+      "relation_category": "DR",
+      "relational_entity": "our first-rate senior consular officer in Brazil"
+    },
+    {
+      "target_entity": ["Senior consular officer in Brazil"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+
+    {
+      "target_entity": ["Brazilian Central Authority"],
+      "relation_category": "NPUI",
+      "relational_entity": "Brazilian Central Authority"
+    },
+    {
+      "target_entity": ["Brazilian Central Authority"],
+      "relation_category": "NPUI",
+      "relational_entity": "BCA"
+    },
+
+    {
+      "target_entity": ["President of the 2nd Regional Federal Court"],
+      "relation_category": "NPUI",
+      "relational_entity": "President of the 2nd Regional Federal Court"
+    },
+    {
+      "target_entity": ["President of the 2nd Regional Federal Court"],
+      "relation_category": "DR",
+      "relational_entity": "He"
+    },
+    {
+      "target_entity": ["President of the 2nd Regional Federal Court"],
+      "relation_category": "DR",
+      "relational_entity": "he"
+    },
+
+    {
+      "target_entity": ["Brazilian family"],
+      "relation_category": "DR",
+      "relational_entity": "the Brazilian family"
+    },
+    {
+      "target_entity": ["Brazilian family"],
+      "relation_category": "DR",
+      "relational_entity": "the family"
+    },
+
+    {
+      "target_entity": ["Sean Goldman"],
+      "relation_category": "DR",
+      "relational_entity": "Sean"
+    },
+    {
+      "target_entity": ["Sean Goldman"],
+      "relation_category": "DR",
+      "relational_entity": "him"
+    },
+
+    {
+      "target_entity": ["Daniel Levy"],
+      "relation_category": "DR",
+      "relational_entity": "Daniel Levy"
+    },
+    {
+      "target_entity": ["Brazilian Government"],
+      "relation_category": "NPUI",
+      "relational_entity": "AGU office in Rio"
+    },
+
+    {
+      "target_entity": ["David Goldman"],
+      "relation_category": "DR",
+      "relational_entity": "David Goldman"
+    },
+    {
+      "target_entity": ["David Goldman's Brazilian attorney"],
+      "relation_category": "NPUI",
+      "relational_entity": "David Goldman's Brazilian attorney"
+    },
+    {
+      "target_entity": ["David Goldman's Brazilian attorney"],
+      "relation_category": "DR",
+      "relational_entity": "David's attorney"
+    },
+
+    {
+      "target_entity": ["Sergio Tostes"],
+      "relation_category": "DR",
+      "relational_entity": "Sergio Tostes"
+    },
+
+    {
+      "target_entity": ["Interpol office in Brasilia"],
+      "relation_category": "NPUI",
+      "relational_entity": "Interpol office in Brasilia"
+    },
+    {
+      "target_entity": ["Interpol office in Brasilia"],
+      "relation_category": "DR",
+      "relational_entity": "They"
+    },
+    {
+      "target_entity": ["Interpol office in Brasilia"],
+      "relation_category": "DR",
+      "relational_entity": "they"
+    },
+
+    {
+      "target_entity": ["Embassy LEGAT"],
+      "relation_category": "NPUI",
+      "relational_entity": "Embassy LEGAT"
+    },
+
+    {
+      "target_entity": ["WHA Press"],
+      "relation_category": "NPUI",
+      "relational_entity": "WHA Press"
+    },
+    {
+      "target_entity": ["CA Press"],
+      "relation_category": "NPUI",
+      "relational_entity": "CA Press"
+    },
+
+    {
+      "target_entity": ["Police in Rio"],
+      "relation_category": "NPUI",
+      "relational_entity": "police"
+    },
+
+    {
+      "target_entity": ["Consulate General Rio"],
+      "relation_category": "NPUI",
+      "relational_entity": "Consulate General Rio"
+    },
+
+    {
+      "target_entity": ["Regional Federal Court President Paulo Espirito Santo"],
+      "relation_category": "DR",
+      "relational_entity": "Paulo Espirito Santo"
+    },
+    {
+      "target_entity": ["STF President Gilmar Mendes"],
+      "relation_category": "DR",
+      "relational_entity": "Gilmar Mendes"
+    },
+
+    {
+      "target_entity": ["U.S. Department of State"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": ["U.S. Department of State"],
+      "relation_category": "DR",
+      "relational_entity": "We"
+    },
+    {
+      "target_entity": ["U.S. Department of State"],
+      "relation_category": "DR",
+      "relational_entity": "us"
+    }
+  ]
+}

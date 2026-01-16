@@ -1,0 +1,29 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Anne-Marie Slaughter"],
+      "relation_category": "DR",
+      "relational_entity": "Slaughter, Anne-Marie"
+    },
+    {
+      "target_entity": ["Anne-Marie Slaughter"],
+      "relation_category": "SI",
+      "relational_entity": "<SlaughterA@state.gov >"
+    },
+    {
+      "target_entity": ["OAS"],
+      "relation_category": "DR",
+      "relational_entity": "OAS"
+    },
+    {
+      "target_entity": ["Jacob J Sullivan"],
+      "relation_category": "DR",
+      "relational_entity": "Sullivan, Jacob J"
+    },
+    {
+      "target_entity": ["Anne-Marie Slaughter"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    }
+  ]
+}

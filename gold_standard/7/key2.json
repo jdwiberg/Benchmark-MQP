@@ -1,0 +1,79 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "NPUI",
+      "relational_entity": "sheino@ercot-iso.com"
+    },
+    {
+      "target_entity": ["1 Retail Users Group Ad Hoc Subcommittee"],
+      "relation_category": "NPUI",
+      "relational_entity": "isonp@ercot.com"
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "DR",
+      "relational_entity": "Heino, Shari"
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "NPUI",
+      "relational_entity": "<sheino@ercot-iso.com>"
+    },
+    {
+      "target_entity": ["1 Retail Users Group Ad Hoc Subcommittee"],
+      "relation_category": "NPUI",
+      "relational_entity": "1 Retail Users Group Ad Hoc Subcommittee"
+    },
+    {
+      "target_entity": ["1 Retail Users Group Ad Hoc Subcommittee"],
+      "relation_category": "NPUI",
+      "relational_entity": "isonp@ercot.com"
+    },
+    {
+      "target_entity": ["Doug Gilbert Smith"],
+      "relation_category": "DR",
+      "relational_entity": "\\Doug_Gilbert_Smith_Nov2001"
+    },
+    {
+      "target_entity": ["Doug Gilbert Smith"],
+      "relation_category": "DR",
+      "relational_entity": "GILBERTSMITH-D"
+    },
+    {
+      "target_entity": ["Doug Gilbert Smith"],
+      "relation_category": "DR",
+      "relational_entity": "dsmith.ndf"
+    },    
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "DR",
+      "relational_entity": "Shari Heino"
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "NPUI",
+      "relational_entity": "Corporate Counsel"
+    },
+    {
+      "target_entity": ["Electric Reliability Council of Texas, Inc."],
+      "relation_category": "DR",
+      "relational_entity": "Electric Reliability Council of Texas, Inc."
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "NPUI",
+      "relational_entity": "sheino@ercot.com"
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "SI",
+      "relational_entity": "(512) 343-7215"
+    },
+    {
+      "target_entity": ["Shari Heino"],
+      "relation_category": "SI",
+      "relational_entity": "(512) 343-8134"
+    }
+  ]
+}

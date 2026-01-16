@@ -1,0 +1,154 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "NPUI",
+      "relational_entity": "martin.cuilla@enron.com"
+    },
+    {
+      "target_entity": ["William E Kasemervisz"],
+      "relation_category": "NPUI",
+      "relational_entity": "william.kasemervisz@enron.com"
+    },
+    {
+      "target_entity": ["Gary Taylor"],
+      "relation_category": "NPUI",
+      "relational_entity": "gary.taylor@enron.com"
+    },
+    {
+      "target_entity": ["Jeffrey C Gossett"],
+      "relation_category": "NPUI",
+      "relational_entity": "jeffrey.gossett@enron.com"
+    },
+    {
+      "target_entity": ["Gary W Lamphier"],
+      "relation_category": "NPUI",
+      "relational_entity": "gary.lamphier@enron.com"
+    },
+    {
+      "target_entity": ["Scott Earnest"],
+      "relation_category": "NPUI",
+      "relational_entity": "scott.earnest@enron.com"
+    },
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "NPUI",
+      "relational_entity": "martin.cuilla@enron.com"
+    },
+    {
+      "target_entity": ["Tony Harris"],
+      "relation_category": "NPUI",
+      "relational_entity": "tony.harris@enron.com"
+    },
+    {
+      "target_entity": ["Greg Martin"],
+      "relation_category": "NPUI",
+      "relational_entity": "greg.martin@enron.com"
+    },
+    {
+      "target_entity": ["Mark Friedman"],
+      "relation_category": "NPUI",
+      "relational_entity": "mark.friedman@enron.com"
+    },
+    {
+      "target_entity": ["Michael W Morris"],
+      "relation_category": "NPUI",
+      "relational_entity": "michael.morris@enron.com"
+    },
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "DR",
+      "relational_entity": "Martin Cuilla"
+    },
+    {
+      "target_entity": ["William E Kasemervisz"],
+      "relation_category": "DR",
+      "relational_entity": "William E Kasemervisz"
+    },
+    {
+      "target_entity": ["Gary Taylor"],
+      "relation_category": "DR",
+      "relational_entity": "Gary Taylor"
+    },
+    {
+      "target_entity": ["Jeffrey C Gossett"],
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey C Gossett"
+    },
+    {
+      "target_entity": ["Gary W Lamphier"],
+      "relation_category": "DR",
+      "relational_entity": "Gary W Lamphier"
+    },
+    {
+      "target_entity": ["Scott Earnest"],
+      "relation_category": "DR",
+      "relational_entity": "Scott Earnest"
+    },
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "DR",
+      "relational_entity": "Martin Cuilla"
+    },
+    {
+      "target_entity": ["Tony Harris"],
+      "relation_category": "DR",
+      "relational_entity": "Tony Harris"
+    },
+    {
+      "target_entity": ["Greg Martin"],
+      "relation_category": "DR",
+      "relational_entity": "Greg Martin"
+    },
+    {
+      "target_entity": ["Mark Friedman"],
+      "relation_category": "DR",
+      "relational_entity": "Mark Friedman"
+    },
+    {
+      "target_entity": ["Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "Michael W Morris"
+    },
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Martin Cuilla"],
+      "relation_category": "DR",
+      "relational_entity": "mcuilla@enron.com"
+    },    
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["William E Kasemervisz", "Gary Taylor", "Jeffery C Gossett", "Gary W Lamphier", "Scott Earnest", "Martin Cuilla", "Tony Harris", "Greg Martin", "Mark Friedman", "Michael W Morris"],
+      "relation_category": "DR",
+      "relational_entity": "everyone"
+    }
+  ]
+}

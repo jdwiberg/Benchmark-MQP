@@ -27,6 +27,24 @@ def remove_entities(dir_pref: str, start: int, end: int):
                 os.unlink(filepath)
 
 
+def make_list(start: int, end: int):
+    dir_pref = "gold_standard/"
+    for i in range(start, end+1):
+        dir = dir_pref + str(i)
+        for file in os.listdir(dir):
+            if file == 'key.json':
+                with open(os.path.join(dir, file), 'r') as f:
+                    lines = f.readlines()
 
+                    for idx, line in enumerate(lines):
+                        if 'target_entity' in line and '[' not in line:
+                            lines[idx] = line[:23] + '[' + line[23:-2] + ']' + line[-2:]
+
+                    with open(os.path.join(dir, "key2.json"), 'w') as f:
+                        f.writelines(lines)
+
+
+
+make_list(0, 99)
 
 

@@ -1,0 +1,49 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "SI",
+      "relational_entity": "Ehud Barak <ehbarak1@gmail.com>"
+    },
+    {
+      "target_entity": ["Nili Priell Barak"],
+      "relation_category": "SI",
+      "relational_entity": "nilipriell@gmail.com"
+    },
+    {
+      "target_entity": ["Nili Priell Barak"],
+      "relation_category": "SI",
+      "relational_entity": "nilipriell@gmail.com"
+    },
+    {
+      "target_entity": ["Jeffrey Epstein"],
+      "relation_category": "SI",
+      "relational_entity": "Jeffrey E. <jeevacation@gmail.com>"
+    },
+    {
+      "target_entity": ["Jeffrey Epstein"],
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": ["Nili Priell Barak"],
+      "relation_category": "SI",
+      "relational_entity": "Nili Priell Barak < nilipriell@gmail.com >"
+    },
+    {
+      "target_entity": ["Jeffrey Epstein"],
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey"
+    },
+    {
+      "target_entity": ["Ehud Barak"],
+      "relation_category": "DR",
+      "relational_entity": "Ehud"
+    },
+    {
+      "target_entity": ["Nili Priell Barak"],
+      "relation_category": "DR",
+      "relational_entity": "Nili"
+    }
+  ]
+}

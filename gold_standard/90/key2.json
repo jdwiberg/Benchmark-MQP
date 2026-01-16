@@ -1,0 +1,94 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "DR",
+      "relational_entity": "ehbarak"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "SI",
+      "relational_entity": "ehbarak1@gmail.com"
+    },
+    {
+      "target_entity": ["jeffrey E."],
+      "relation_category": "DR",
+      "relational_entity": "jeffrey E."
+    },
+    {
+      "target_entity": ["jeffrey E."],
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "DR",
+      "relational_entity": "I'll"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai", "Baroness Rothschild"],
+      "relation_category": "DR",
+      "relational_entity": "both"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "SI",
+      "relational_entity": "I'll be in the Kempinski Hotel"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "DR",
+      "relational_entity": "EB"
+    },
+    {
+      "target_entity": ["jeffrey E."],
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai"],
+      "relation_category": "DR",
+      "relational_entity": "sultan sulyamn from dubai"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai"],
+      "relation_category": "DR",
+      "relational_entity": "my friend"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "SI",
+      "relational_entity": "ehbarak1@gmail.com"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai"],
+      "relation_category": "DR",
+      "relational_entity": "Sultan"
+    },
+    {
+      "target_entity": ["ehbarak"],
+      "relation_category": "DR",
+      "relational_entity": "EB"
+    },
+    {
+      "target_entity": ["jeffrey E."],
+      "relation_category": "SI",
+      "relational_entity": "jeevacation@gmail.com"
+    },
+    {
+      "target_entity": ["baroness rothschild"],
+      "relation_category": "DR",
+      "relational_entity": "baroness rothschild"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai"],
+      "relation_category": "DR",
+      "relational_entity": "sultan"
+    },
+    {
+      "target_entity": ["Sultan Sulyamn from Dubai", "Baroness Rothschild"],
+      "relation_category": "SI",
+      "relational_entity": "at the st peters forum"
+    }
+  ]
+}

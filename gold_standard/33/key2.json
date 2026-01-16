@@ -1,0 +1,134 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Stanley Horton"],
+      "relation_category": "NPUI",
+      "relational_entity": "stanley.horton@enron.com"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "NPUI",
+      "relational_entity": "lindy.donoho@enron.com"
+    },
+    {
+      "target_entity": ["Danny McCarty"],
+      "relation_category": "NPUI",
+      "relational_entity": "danny.mccarty@enron.com"
+    },
+    {
+      "target_entity": ["Drew Fossum"],
+      "relation_category": "NPUI",
+      "relational_entity": "drew.fossum@enron.com"
+    },
+    {
+      "target_entity": ["Mary Kay Miller"],
+      "relation_category": "NPUI",
+      "relational_entity": "mary.miller@enron.com"
+    },
+    {
+      "target_entity": ["Joe Hartsoe"],
+      "relation_category": "NPUI",
+      "relational_entity": "joe.hartsoe@enron.com"
+    },
+    {
+      "target_entity": ["Steven Harris"],
+      "relation_category": "NPUI",
+      "relational_entity": "steven.harris@enron.com"
+    },
+    {
+      "target_entity": ["Kimberly Watson"],
+      "relation_category": "NPUI",
+      "relational_entity": "kimberly.watson@enron.com"
+    },
+    {
+      "target_entity": ["Stanley Horton"],
+      "relation_category": "DR",
+      "relational_entity": "Stanley Horton"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "DR",
+      "relational_entity": "Lindy Donoho"
+    },
+    {
+      "target_entity": ["Danny McCarty"],
+      "relation_category": "DR",
+      "relational_entity": "Danny McCarty"
+    },
+    {
+      "target_entity": ["Drew Fossum"],
+      "relation_category": "DR",
+      "relational_entity": "Drew Fossum"
+    },
+    {
+      "target_entity": ["Mary Kay Miller"],
+      "relation_category": "DR",
+      "relational_entity": "Mary Kay Miller"
+    },
+    {
+      "target_entity": ["Joe Hartsoe"],
+      "relation_category": "DR",
+      "relational_entity": "Joe Hartsoe"
+    },
+    {
+      "target_entity": ["Steven Harris"],
+      "relation_category": "DR",
+      "relational_entity": "Steven Harris"
+    },
+    {
+      "target_entity": ["Kimberly Watson"],
+      "relation_category": "DR",
+      "relational_entity": "Kimberly Watson"
+    },
+    {
+      "target_entity": ["Stanley Horton"],
+      "relation_category": "DR",
+      "relational_entity": "\\Stanley_Horton_2\\"
+    },
+    {
+      "target_entity": ["Stanley Horton"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Stanley Horton", "Lindy Donoho", "Danny McCarty", "Drew Fosum", "Mary Kay Miller", "Joe Hartsoe", "Steven Harris", "Kimberly Watson"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": ["Stanley Horton", "Lindy Donoho", "Danny McCarty", "Drew Fosum", "Mary Kay Miller", "Joe Hartsoe", "Steven Harris", "Kimberly Watson"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "DR",
+      "relational_entity": "lindy.donoho@enron.com"
+    },
+    {
+      "target_entity": ["Stanley Horton"],
+      "relation_category": "DR",
+      "relational_entity": "stanley.horton@enron.com"
+    },
+    {
+      "target_entity": ["Steve"],
+      "relation_category": "DR",
+      "relational_entity": "Steve"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "NPUI",
+      "relational_entity": "713/853-6007"
+    },
+    {
+      "target_entity": ["Lindy Donoho"],
+      "relation_category": "DR",
+      "relational_entity": "Lindy"
+    }
+  ]
+}

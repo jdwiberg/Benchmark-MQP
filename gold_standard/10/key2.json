@@ -1,0 +1,64 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Ross Mesquita"],
+      "relation_category": "DR",
+      "relational_entity": "Ross Mesquita"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "Harry Arora"
+    },
+    {
+      "target_entity": ["Suresh Raghavan"],
+      "relation_category": "DR",
+      "relational_entity": "Suresh Raghavan"
+    },
+    {
+      "target_entity": ["Harry Arora"],
+      "relation_category": "DR",
+      "relational_entity": "Harry"
+    },
+    {
+      "target_entity": ["Ross Mesquita"],
+      "relation_category": "PHI",
+      "relational_entity": "my birthday"
+    },
+    {
+      "target_entity": ["Ross Mesquita"],
+      "relation_category": "PHI",
+      "relational_entity": "Dec 04 2000"
+    },
+    {
+      "target_entity": ["Northern Border Pipeline"],
+      "relation_category": "DR",
+      "relational_entity": "Northern Border Pipeline"
+    },
+    {
+      "target_entity": ["Ross Mesquita", "Harry Arora", "Suresh Raghavan"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },
+    {
+      "target_entity": ["Norther Border Pipeline"],
+      "relation_category": "DR",
+      "relational_entity": "NBPL"
+    },
+    {
+      "target_entity": ["our auctioneer"],
+      "relation_category": "DR",
+      "relational_entity": "our auctioneer"
+    },
+    {
+      "target_entity": ["our auctioneer"],
+      "relation_category": "PHI",
+      "relational_entity": "sick"
+    },
+    {
+      "target_entity": ["Ross Mesquita"],
+      "relation_category": "DR",
+      "relational_entity": "ross"
+    }
+  ]
+}

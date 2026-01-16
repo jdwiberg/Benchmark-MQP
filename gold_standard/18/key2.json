@@ -1,0 +1,84 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Jean Ryall"],
+      "relation_category": "NPUI",
+      "relational_entity": "jean.ryall@enron.com"
+    },
+    {
+      "target_entity": ["Doug Gilbert-Smith"],
+      "relation_category": "NPUI",
+      "relational_entity": "doug.gilbert-smith@enron.com"
+    },
+    {
+      "target_entity": ["Patrick Keene"],
+      "relation_category": "NPUI",
+      "relational_entity": "patrick.keene@enron.com"
+    },
+    {
+      "target_entity": ["Chad Landry"],
+      "relation_category": "NPUI",
+      "relational_entity": "chad.landry@enron.com"
+    },
+    {
+      "target_entity": ["Jean Ryall"],
+      "relation_category": "DR",
+      "relational_entity": "Jean Ryall"
+    },
+    {
+      "target_entity": ["Doug Gilbert-Smith"],
+      "relation_category": "DR",
+      "relational_entity": "Doug Gilbert-Smith"
+    },
+    {
+      "target_entity": ["Patrick Keene"],
+      "relation_category": "DR",
+      "relational_entity": "Patrick Keene"
+    },
+    {
+      "target_entity": ["Chad Landry"],
+      "relation_category": "NPUI",
+      "relational_entity": "chad.landry@enron.com"
+    },
+    {
+      "target_entity": ["Doug Gilbert-Smith", "Patrick Keene", "Chad Landry"],
+      "relation_category": "DR",
+      "relational_entity": "Men"
+    },
+    {
+      "target_entity": ["Doug Gilbert-Smith", "Patrick Keene", "Chad Landry"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Enron"],
+      "relation_category": "NPUI",
+      "relational_entity": "Enron"
+    },
+    {
+      "target_entity": ["Doug Gilbert-Smith", "Patrick Keene", "Chad Landry"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Jean Ryall", "Enron"],
+      "relation_category": "DR",
+      "relational_entity": "we"
+    },  
+    {
+      "target_entity": ["Doug Gilbert-Smith", "Patrick Keene", "Chad Landry"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    }, 
+    {
+      "target_entity": ["Jean Ryall", "Enron"],
+      "relation_category": "NPUI",
+      "relational_entity": "our"
+    }, 
+    {
+      "target_entity": ["Jean Ryall"],
+      "relation_category": "DR",
+      "relational_entity": "Jean Ryall"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "SI",
+      "relational_entity": "darron.giron@enron.com"
+    },
+    {
+      "target_entity": ["Carole Frank"],
+      "relation_category": "SI",
+      "relational_entity": "carole.frank@enron.com"
+    },
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "DR",
+      "relational_entity": "Darron C Giron/HOU/ECT"
+    },
+    {
+      "target_entity": ["Veronica Espinoza"],
+      "relation_category": "DR",
+      "relational_entity": "Veronica Espinoza"
+    },
+    {
+      "target_entity": ["Diane Anderson"],
+      "relation_category": "DR",
+      "relational_entity": "Diane Anderson"
+    },
+    {
+      "target_entity": ["Derek Bailey"],
+      "relation_category": "DR",
+      "relational_entity": "Derek Bailey"
+    },
+    {
+      "target_entity": ["David Baumbach"],
+      "relation_category": "DR",
+      "relational_entity": "David Baumbach"
+    },
+    {
+      "target_entity": ["Jean Bell"],
+      "relation_category": "DR",
+      "relational_entity": "Jean Bell"
+    },
+    {
+      "target_entity": ["Patricia Boulanger"],
+      "relation_category": "DR",
+      "relational_entity": "Patricia Boulanger"
+    },
+    {
+      "target_entity": ["Bob Bowen"],
+      "relation_category": "DR",
+      "relational_entity": "Bob Bowen"
+    },
+    {
+      "target_entity": ["Julie Brewer"],
+      "relation_category": "DR",
+      "relational_entity": "Julie Brewer"
+    },
+    {
+      "target_entity": ["Lesli Campbell"],
+      "relation_category": "DR",
+      "relational_entity": "Lesli Campbell"
+    },
+    {
+      "target_entity": ["Celeste Cisneros"],
+      "relation_category": "DR",
+      "relational_entity": "Celeste Cisneros"
+    },
+    {
+      "target_entity": ["Sharon Crawford"],
+      "relation_category": "DR",
+      "relational_entity": "Sharon Crawford"
+    },
+    {
+      "target_entity": ["Richard Deming"],
+      "relation_category": "DR",
+      "relational_entity": "Richard Deming"
+    },
+    {
+      "target_entity": ["Russell Diamond"],
+      "relation_category": "DR",
+      "relational_entity": "Russell Diamond"
+    },
+    {
+      "target_entity": ["Cindy Feldman"],
+      "relation_category": "DR",
+      "relational_entity": "Cindy Feldman"
+    },
+    {
+      "target_entity": ["Darron C Giron"],
+      "relation_category": "DR",
+      "relational_entity": "Darron C Giron/HOU/ECT@ECT"
+    },
+    {
+      "target_entity": ["Jeffrey C Gossett"],
+      "relation_category": "DR",
+      "relational_entity": "Jeffrey C Gossett"
+    },
+    {
+      "target_entity": ["Larry Joe Hunter"],
+      "relation_category": "DR",
+      "relational_entity": "Larry Joe Hunter"
+    },
+    {
+      "target_entity": ["Kam Keiser"],
+      "relation_category": "DR",
+      "relational_entity": "Kam Keiser"
+    },
+    {
+      "target_entity": ["Phillip M Love"],
+      "relation_category": "DR",
+      "relational_entity": "Phillip M Love"
+    },
+    {
+      "target_entity": ["Errol McLaughlin"],
+      "relation_category": "DR",
+      "relational_entity": "Errol McLaughlin"
+    },
+    {
+      "target_entity": ["Nidia Mendoza"],
+      "relation_category": "DR",
+      "relational_entity": "Nidia Mendoza"
+    },
+    {
+      "target_entity": ["Tom Moran"],
+      "relation_category": "DR",
+      "relational_entity": "Tom Moran"
+    },
+    {
+      "target_entity": ["Bianca Ornelas"],
+      "relation_category": "DR",
+      "relational_entity": "Bianca Ornelas"
+    },
+    {
+      "target_entity": ["Sarah Pernul"],
+      "relation_category": "DR",
+      "relational_entity": "Sarah Pernul"
+    },
+    {
+      "target_entity": ["Leslie Reeves"],
+      "relation_category": "DR",
+      "relational_entity": "Leslie Reeves"
+    },
+    {
+      "target_entity": ["Tanya Rohauer"],
+      "relation_category": "DR",
+      "relational_entity": "Tanya Rohauer"
+    },
+    {
+      "target_entity": ["Dianne Seib"],
+      "relation_category": "DR",
+      "relational_entity": "Dianne Seib"
+    },
+    {
+      "target_entity": ["Linda Sietzema"],
+      "relation_category": "DR",
+      "relational_entity": "Linda Sietzema"
+    },
+    {
+      "target_entity": ["Kim S Theriot"],
+      "relation_category": "DR",
+      "relational_entity": "Kim S Theriot"
+    },
+    {
+      "target_entity": ["Ellen Wallumrod"],
+      "relation_category": "DR",
+      "relational_entity": "Ellen Wallumrod"
+    },
+    {
+      "target_entity": ["Tiffany Williams"],
+      "relation_category": "DR",
+      "relational_entity": "Tiffany Williams"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "relationship_triplets": [
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "DR",
+      "relational_entity": "Balderston, Kris M"
+    },
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "SI",
+      "relational_entity": "BalderstonKM@state.gov"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "H"
+    },
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "DR",
+      "relational_entity": "I"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "your"
+    },
+    {
+      "target_entity": ["Huma Abedin"],
+      "relation_category": "DR",
+      "relational_entity": "Huma"
+    },
+    {
+      "target_entity": ["Mark Landler"],
+      "relation_category": "DR",
+      "relational_entity": "Mark Landler"
+    },
+    {
+      "target_entity": ["Tamera"],
+      "relation_category": "DR",
+      "relational_entity": "Tamera"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "you"
+    },
+    {
+      "target_entity": ["Chelsea"],
+      "relation_category": "DR",
+      "relational_entity": "Chelsea"
+    },
+    {
+      "target_entity": ["The President"],
+      "relation_category": "DR",
+      "relational_entity": "the President"
+    },
+    {
+      "target_entity": ["Hillary Clinton"],
+      "relation_category": "DR",
+      "relational_entity": "Your family"
+    },
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "DR",
+      "relational_entity": "me"
+    },
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "DR",
+      "relational_entity": "my family"
+    },
+    {
+      "target_entity": ["Kris Balderston"],
+      "relation_category": "DR",
+      "relational_entity": "Kris"
+    }
+  ]
+}
