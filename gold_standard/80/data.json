@@ -1,0 +1,98 @@
+{
+    "text": "From: ehbarak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Nicole Junkermann <junkermann@junkermanngroup.com> Darren Indyke <DKIESQ@aol.com> Date: Fri, 12/5/2014 5:18:43 PM Subject: Re: Nicole OK. EB Sent from my iPhone On Dec 4, 2014, at 12:49, jeffrey E. < jeevacation@gmail.com > wrote: nicole will be point on the biz aspects of transaction. -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehbarak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Nicole Junkermann"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Nicole Junkermann"
+            },
+            {
+                "target_entity": [
+                    "Nicole Junkermann"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<junkermann@junkermanngroup.com>"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darren Indyke"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<DKIESQ@aol.com>"
+            },
+            {
+                "target_entity": [
+                    "Nicole Junkermann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Nicole"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Nicole Junkermann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "nicole"
+            }
+        ]
+    }
+}

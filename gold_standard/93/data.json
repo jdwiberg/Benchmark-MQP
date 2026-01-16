@@ -1,0 +1,100 @@
+{
+    "text": "From: ehud barak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Barak Nili Priell <nilipriell@gmail.com> Date: Thu, 5/8/2014 5:05:58 PM Subject: Re: NYC JE Can we meet April 9th evening? EB Sent from iPhone On May 7, 2014, at 15:47, \"jeffrey E.\" < jeevacation@gmail.com > wrote: Im in ny -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<ehbarak1@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<jeevacation@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Barak"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Nili Priell"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<nilipriell@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "JE"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak",
+                    "Jeffrey E.",
+                    "Nili Priell"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Im in ny"
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "text": "Content-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nFrom: Janet Butler (janet.butler@enron.com)\nTo: Stanley Horton (stanley.horton@enron.com)\nSubject: MBA Class\ncc: \nbcc:\n\nStan. I am a glutton for punishment with now pursuing my MBA. But it is \nenergizing (pardon, the pun) and very enjoyable. In light of this, I am to \ninterview a leader about certain aspects of leadership, i.e. does leadership \ndevelop with experience, have there been one or two instrumental experiences \nthat were signficant in developing your own leadeship style?\n\nAs my leader, would you have about 30 minutes or so, sometime this week, to \ndiscuss your ideas about leadership with me? To maximize your time, I would \nbe glad to provide all questions in advance so I don't waste any time.\n\nPlease let me know and I hope you can visit with me.\n\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Janet Butler"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "janet.butler@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Stanley Horton"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "stanley.horton@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Stan"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "a leader"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "a leader"
+            },
+            {
+                "target_entity": [
+                    "a leader"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my leader"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Janet Butler"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            }
+        ]
+    }
+}

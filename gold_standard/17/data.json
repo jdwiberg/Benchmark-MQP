@@ -1,0 +1,76 @@
+{
+    "text": "To: Darron C Giron/HOU/ECT@ECT\ncc: Julie Brewer/NA/Enron@Enron, Jean Bell/HOU/ECT@ECT \nSubject: TAGG-Annuities\n\nDarron,\n\nFor audit purposes, can you give us a brief description of where the value \nfor annuities in TAGG as V42434.9 and V42434.A.  We'll add some comments to \nTAGG to cover ourselves or send out Termination Agreements if necessary.\n\nThanks,\nJoe Hunter\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Darron C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darron C Giron"
+            },
+            {
+                "target_entity": [
+                    "Julie Brewer"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Julie Brewer"
+            },
+            {
+                "target_entity": [
+                    "Jean Bell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jean Bell"
+            },
+            {
+                "target_entity": [
+                    "Darron C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darron"
+            },
+            {
+                "target_entity": [
+                    "Darron C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Joe Hunter",
+                    "Julie Brewer",
+                    "Jean Bell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "us"
+            },
+            {
+                "target_entity": [
+                    "Joe Hunter",
+                    "Julie Brewer",
+                    "Jean Bell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "We'll"
+            },
+            {
+                "target_entity": [
+                    "Joe Hunter",
+                    "Julie Brewer",
+                    "Jean Bell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ourselves"
+            },
+            {
+                "target_entity": [
+                    "Joe Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Joe Hunter"
+            }
+        ]
+    }
+}

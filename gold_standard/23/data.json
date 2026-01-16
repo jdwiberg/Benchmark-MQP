@@ -1,0 +1,175 @@
+{
+    "text": "Last week, Dr. Amanda Rivera from Boston General Hospital called Jonathan Liu to discuss his recent MRI scan results. \nShe mentioned that although his cholesterol levels were high, his blood pressure had improved since April. \nJonathan agreed to share the report with BlueShield Insurance Group and his therapist, Maria O\u2019Neill, for follow-up. \nLater that day, he emailed the documents from his personal address jonliu87@gmail.com and included his member ID BS-9032114. \nHis sister Emily, who lives at 45 Chestnut St., Cambridge, MA, reminded him to attend his virtual PTSD support group on Thursday. \nDr. Rivera also cited a recent NIH study (Ref. No. 2024-H-1127) suggesting a link between sleep quality and anxiety recovery.\n\n\n\n\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Dr. Amanda Rivera"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dr. Amanda Rivera"
+            },
+            {
+                "target_entity": [
+                    "Boston General Hospital"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Boston General Hospital"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jonathan Liu"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "recent MRI scan"
+            },
+            {
+                "target_entity": [
+                    "Dr. Amanda Rivera"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "she"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "blood pressure had improved since April"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jonathan"
+            },
+            {
+                "target_entity": [
+                    "BlueShield Insurance Group"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "BlueShield Insurance Group"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his"
+            },
+            {
+                "target_entity": [
+                    "Maria O\u2019Neill"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his therapist"
+            },
+            {
+                "target_entity": [
+                    "Maria O\u2019Neill"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Maria O\u2019Neill"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "his personal address jonliu87@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "his member ID BS-9032114"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his"
+            },
+            {
+                "target_entity": [
+                    "Emily"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "sister"
+            },
+            {
+                "target_entity": [
+                    "Emily"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Emily"
+            },
+            {
+                "target_entity": [
+                    "Emily"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "45 Chestnut St., Cambridge, MA"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "him"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his"
+            },
+            {
+                "target_entity": [
+                    "Jonathan Liu"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "virtual PTSD support group"
+            },
+            {
+                "target_entity": [
+                    "Dr. Amanda Rivera"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dr. Rivera"
+            }
+        ]
+    }
+}

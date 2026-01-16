@@ -1,0 +1,119 @@
+{
+    "text": "From: harry.arora@enron.com\nTo: suresh.raghavan@enron.com\nSubject: Tasks\nX-From: Harry Arora\nX-To: Suresh Raghavan\n\nSuresh\n\nFor the next two weeks, I'd like you to focus on the following.\n\n1. Development frame-work and getting Zach upto speed\n Specs for Syndication report & testing & production date\n Finalize questionnaire and production date\n Modifications to Invitee and User stats\n2. EnronOnline auctions - structure, and hash out details to enable kick off\n3. Legal frame-work , shorten contracts for both deal-rooms and auctions\n4. Marketing materials for procurement - and leasing, mail to top 100 list.\n5.Complete transfer of operations to Networks group (Sherri Thomas's group)\n6. Budget changes\n7. Finalize hiring needs for Q1 and Q2\n8. Focus each of the marketing leads on revenue, client lists, outreach, \nmarketing and sales strategy\n Ross - procurement\n Don - Banks\n Toby - Data rooms\n Miguel - leases, legal and other data rooms\n9. Dataroom development frame-work\n\n\nHarry",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "harry.arora@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "suresh.raghavan@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry Arora"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Suresh Raghavan"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Suresh"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I'd"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Zach"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Zach"
+            },
+            {
+                "target_entity": [
+                    "Networks group"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Networks group"
+            },
+            {
+                "target_entity": [
+                    "Networks group"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sherri Thomas's group"
+            },
+            {
+                "target_entity": [
+                    "Sherri Thomas"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sherri Thomas's group"
+            },
+            {
+                "target_entity": [
+                    "Ross"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ross"
+            },
+            {
+                "target_entity": [
+                    "Don"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Don"
+            },
+            {
+                "target_entity": [
+                    "Toby"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Toby"
+            },
+            {
+                "target_entity": [
+                    "Miguel"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Miguel"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry"
+            }
+        ]
+    }
+}

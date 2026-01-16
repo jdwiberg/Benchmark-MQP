@@ -1,0 +1,169 @@
+{
+    "text": "Mime-Version: 1.0\nContent-Type: text/plain; charset=ANSI_X3.4-1968\nContent-Transfer-Encoding: quoted-printable\nX-From: Dana R Gibbs (dana.gibbs@enron.com)\nX-To: Stanley Horton (stanley.horton@enron.com), Phil Lowry\nX-cc: David Sztroin/GCO/Enron@ENRON, Jordan Hunter/ENRON@enronXgate\nX-bcc:\nSubject: EOTT Hunt Pipeline Update\n\nStan & Phil, a quick update on the status of our activities on the\nPipeline this week.\n\nOn Monday, Jordan and David Sztroin drove as much of the pipeline as\npossible in preparation for Tuesday's meeting.\nOn Tuesday, Jordan, David and Dan Cole met with representatives from Boots\nSmith Construction in Laurel, MS to discuss the project.  Discussion centered\naround the pipe size (1018 being the most likely), and what was included in\nthe lump sum construction price from Boots Smith. His price did not include a number of items, such as concrete coating, stream crossings, wetlands installation (including mats), Directional drills, silt fencing, and several other identified items.\nHe has provided, or will provide, unit prices for some of these items; we will estimate the balance.\nI have assigned Jordan as the Project Director for the project. He is working to more clearly define the scope, standards, specifications, execution approach, cost, and schedule. We will advise the target schedule and revised cost estimate as soon as possible. Of course, there are many permitting and environmental issues to overcome, and Jordan is working through those now; the survey needs to start ASAP in order to file for the permits.\nBest, Dan",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Dana R Gibbs"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dana R Gibbs (dana.gibbs@enron.com)"
+            },
+            {
+                "target_entity": [
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Stanley Horton (stanley.horton@enron.com)"
+            },
+            {
+                "target_entity": [
+                    "Phil Lowry"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Phil Lowry"
+            },
+            {
+                "target_entity": [
+                    "David Sztroin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "David Sztroin"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jordan Hunter"
+            },
+            {
+                "target_entity": [
+                    "Stan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Stanley Horton"
+            },
+            {
+                "target_entity": [
+                    "Phil"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Phil Lowry"
+            },
+            {
+                "target_entity": [
+                    "Dana R Gibbs, David Sztroin, Jordan Hunter, Phil Lowry, Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jordan"
+            },
+            {
+                "target_entity": [
+                    "David Sztroin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "David"
+            },
+            {
+                "target_entity": [
+                    "Dan Cole"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dan Cole"
+            },
+            {
+                "target_entity": [
+                    "representatives"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "representatives"
+            },
+            {
+                "target_entity": [
+                    "Boots Smith Construction"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Boots Smith Construction"
+            },
+            {
+                "target_entity": [
+                    "Boots Smith Construction"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Boots Smith"
+            },
+            {
+                "target_entity": [
+                    "representatives"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "Dana R Gibbs",
+                    "David Sztroin",
+                    "Jordan Hunter",
+                    "Phil Lowry",
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jordan"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Project Director for the project"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "Dana R Gibbs",
+                    "David Sztroin",
+                    "Jordan Hunter",
+                    "Phil Lowry",
+                    "Stanley Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Jordan Hunter"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jordan"
+            },
+            {
+                "target_entity": [
+                    "Dana R Gibbs"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dan"
+            }
+        ]
+    }
+}

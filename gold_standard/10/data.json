@@ -1,0 +1,93 @@
+{
+    "text": "Date: Dec 04 2000\nX-From: Ross Mesquita\nX-To: Harry Arora\nX-cc: Suresh Raghavan\nX-bcc: \n\nHarry,\n\nToday's live auction for Northern Border Pipeline's procurement of line pipe \nwas quite a success!  What a treat for my birthday! Here are some highlights:\n\n\nThe auction lasted longer than the scheduled 15 minutes due to the automatic \nextension feature resulting from new Best Bids placed during the last two \nminutes of the auction.  Please note that we earned $52,500 for this auction \nand are on track to do another auction for NBPL on 1/30 for a $20,000 fee.\n\nIf our auctioneer hadn't gotten sick, it likely could have gone longer.\n\nRegards, \nRoss\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ross Mesquita"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ross Mesquita"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry Arora"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Suresh Raghavan"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry"
+            },
+            {
+                "target_entity": [
+                    "Ross Mesquita"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "my birthday"
+            },
+            {
+                "target_entity": [
+                    "Ross Mesquita"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "Dec 04 2000"
+            },
+            {
+                "target_entity": [
+                    "Northern Border Pipeline"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Northern Border Pipeline"
+            },
+            {
+                "target_entity": [
+                    "Ross Mesquita",
+                    "Harry Arora",
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Norther Border Pipeline"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "NBPL"
+            },
+            {
+                "target_entity": [
+                    "our auctioneer"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our auctioneer"
+            },
+            {
+                "target_entity": [
+                    "our auctioneer"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "sick"
+            },
+            {
+                "target_entity": [
+                    "Ross Mesquita"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ross"
+            }
+        ]
+    }
+}

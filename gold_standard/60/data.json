@@ -1,0 +1,147 @@
+{
+    "text": "UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767499 Date: 08/31/2015 RELEASE IN FULL From: Abedin, Huma <AbedinH@state.gov > Sent: Saturday, February 6, 2010 9:49 AM To: Subject: Re: Mubarak Call Sheet We'd have to come up with something. Which we can. Original Message --- From: H <HDR22@clintonemail.com > To: Abedin, Huma Sent: Sat Feb 06 09:22:20 2010 Subject: Re: Mubarak Call Sheet If we can stop in Bahrain, I'd like to but what would schedule be? Original Message From: Abedin, Huma <AbedinH@state.gov > To: H Sent: Sat Feb 06 09:14:04 2010 Subject: Re: Mubarak Call Sheet So qatar and saudi? Yes or no to bahrain? Original Message --- From: H <HDR22@clintonemail.com > To: Abedin, Huma Sent: Sat Feb 06 09:03:18 2010 Subject: Re: Mubarak Call Sheet Ok I'm done w Strobe. Also let's go on our trip. I think it's worth it. And we can always add Israel as we did before! Original Message ---- From: Abedin, Huma <AbedinH@state.gov > To: Oscar Flores Cc: H Sent: Sat Feb 06 08:42:38 2010 Subject: Fw: Mubarak Call Sheet Oscar, can u print this asap for hrc. Its for her 9:30am call. Thx. Original Message From: Johnson, Andrew Kim To: Abedin, Huma Cc: S_SpecialAssistants; SES-O_Shift-II Sent: Sat Feb 06 08:25:57 2010 Subject: Mubarak Call Sheet \u00ab020510 S-Mubarak Talking Points.doc\u00bb \u00ab020510 5-Mubarak Talking Points.doc\u00bb Hi Huma, UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767499 Date: 08/31/2015 UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767499 Date: 08/31/2015 Per our conversation earlier this morning, here's the call sheet for President Mubarak. We are standing by to begin the secure fax as well. Best regards, Andrew Kim Johnson' Watch Officer State Department Operations Center S/ES-0 202-647-1512 UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767499 Date: 08/31/2015",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Abedin, Huma"
+            },
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "AbedinH@state.gov"
+            },
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "We"
+            },
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "H"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "HDR22@clintonemail.com"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I'm"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "her"
+            },
+            {
+                "target_entity": [
+                    "Oscar Flores"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Oscar Flores"
+            },
+            {
+                "target_entity": [
+                    "Oscar Flores"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "u"
+            },
+            {
+                "target_entity": [
+                    "Andrew Kim Johnson"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Johnson, Andrew Kim"
+            },
+            {
+                "target_entity": [
+                    "Andrew Kim Johnson"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "We"
+            },
+            {
+                "target_entity": [
+                    "S_SpecialAssistants"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "S_SpecialAssistants"
+            },
+            {
+                "target_entity": [
+                    "SES-O_Shift-II"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "SES-O_Shift-II"
+            },
+            {
+                "target_entity": [
+                    "President Mubarak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "President Mubarak"
+            },
+            {
+                "target_entity": [
+                    "State Department Operations Center"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "State Department Operations Center"
+            },
+            {
+                "target_entity": [
+                    "State Department Operations Center"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "202-647-1512"
+            }
+        ]
+    }
+}

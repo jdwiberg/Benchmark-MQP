@@ -1,0 +1,213 @@
+{
+    "text": "From:  Per Sekse         \n\t\n\nTo: John J Lavorato/Corp/Enron@Enron\ncc: Fred Lagrasta/HOU/ECT@ECT, Jeffrey A Shankman/HOU/ECT@ECT \nSubject: Hedge Fund Update & Summary\n\nFred asked me to pull together an update for you on our dealings with Hedge \nFunds. Look forward to seeing you at 2PM today.\n\nWe have active trading relationships with two hedge Funds, Tudor & Ospraie, \nand have documentation negotiations under way with 11 others. In addition, we \nwere trading with Tiger earlier in the year before they closed down. The \ncommodity traders I dealt with at Tiger (Paul Touradji & Rob Ellis) are in \nthe process of setting up their own hedge fund and will trade with us again \nin late Autumn.\n\n2000 Hedge Fund Origination Summary\n\nTiger   $112,000  (began trading in Dec 99 and stopped in Mar 00)\nTudor   $384,700 (began trading in Mar 00)\nOspraie  $589,940 (began trading in May 00)\n\nTotal year to date $1,086,640 (My budget est for 2000 is approx $2mm)\n\nI've attached two files. The first is a spread sheet with all our hedge fund \ntrades year to date in detail. In there you will see a tab for work in \nprogress, these are the funds I am targeting to get signed on for trading \nwith us and the state of play with each. \n\nPer\n\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Per Sekse"
+            },
+            {
+                "target_entity": [
+                    "John J Lavorato"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "John J Lavorato"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Enron@Enron"
+            },
+            {
+                "target_entity": [
+                    "Fred Lagrasta"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Fred Lagrasta"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey A Shankman"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey A Shankman"
+            },
+            {
+                "target_entity": [
+                    "Fred"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Fred"
+            },
+            {
+                "target_entity": [
+                    "Tudor",
+                    "Ospraie"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "two hedge Funds"
+            },
+            {
+                "target_entity": [
+                    "Tudor"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tudor"
+            },
+            {
+                "target_entity": [
+                    "Ospraie"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ospraie"
+            },
+            {
+                "target_entity": [
+                    "11 others"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "11 others"
+            },
+            {
+                "target_entity": [
+                    "Tiger"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tiger"
+            },
+            {
+                "target_entity": [
+                    "Tiger"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "they"
+            },
+            {
+                "target_entity": [
+                    "Paul Touradji",
+                    "Rob Ellis"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the commodity traders"
+            },
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Tiger"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tiger"
+            },
+            {
+                "target_entity": [
+                    "Paul Touradji"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Paul Touradji"
+            },
+            {
+                "target_entity": [
+                    "Rob Ellis"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rob Ellis"
+            },
+            {
+                "target_entity": [
+                    "Paul Touradji",
+                    "Rob Ellis"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "their"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "us"
+            },
+            {
+                "target_entity": [
+                    "Tiger"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tiger"
+            },
+            {
+                "target_entity": [
+                    "Tudor"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tudor"
+            },
+            {
+                "target_entity": [
+                    "Ospraie"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ospraie"
+            },
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my"
+            },
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I've"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our"
+            },
+            {
+                "target_entity": [
+                    "John J Lavorato"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "us"
+            },
+            {
+                "target_entity": [
+                    "Per Sekse"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Per"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "text": "From: Ehud Barak <ehbarak1@gmail.com> To: Nili Priell Barak <nilipriell@gmail.com> CC: Date: Thu, 6/11/2015 11:32:42 PM Subject: Re: meeting in NY? \u05ea\u05d0\u05e9\u05e8\u05d9 \u05dc\u05d5. \u05dc\u05d0\u05d0\u05d1 Sent from my iPhone On Jun 11, 2015, at 21:00, Nili Priell Barak < nilipriell@gmail.com > wrote: FYI Begin forwarded message: From: \"jeffrey E.\" < jeevacation@gmail.com > Subject: Re: meeting in NY? Date: June 11, 2015 at 8:58:14 PM GMT+3 To: Nili Priell Barak < nilipriell@gmail.com > will try close to jully 1 , I do not currently know schedule On Thu, Jun 11, 2015 at 1:54 PM, Nili Priell Barak < nilipriell@gmail.com > wrote: Hello Jeffrey, Ehud will come to NY on June 25 and stay till July 1. Are you in town for a meeting? with warm regards, Nili -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Ehud Barak <ehbarak1@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "nilipriell@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "nilipriell@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Jeffrey E. <jeevacation@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Nili Priell Barak < nilipriell@gmail.com >"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "Nili Priell Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Nili"
+            }
+        ]
+    }
+}

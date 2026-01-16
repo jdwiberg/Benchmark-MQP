@@ -1,0 +1,119 @@
+{
+    "text": "The unfolding tragedy in Syria which already cost the lives of 75 thousands had culminated these days with evidence of the use of nerve agents by the Assad regime against his own citizens and the videotaped executions as well as canibalism in the name of God on behalf of the rebels. Have we said \"tough neighborhood\", lives lost, red lines crossed but no coordinated plan, in sight, to end it had yet emerged. >>> \nThe Russian leaders are as clever as we are and fully understand that Assad is doomed and lost legitimacy.\nIt is not too hard to asses why they are reluctant to say it loudly at this stage.If we want to see an end of fighting and do not want to see Jabhat al Nosra or the likes running Syria added probably by years of bloody massacre of Alawites and others in a no man's land Syria we need Russia to be asked to lead the international effort to end it,with all other players supporting it. The Kremlin ,for more than forty years,invested a lot of political capital,financial resources and prestige in the Assads dynasty. They still do. ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Assad"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the Assad regime"
+            },
+            {
+                "target_entity": [
+                    "Assad"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "his own citizens"
+            },
+            {
+                "target_entity": [
+                    "the rebels"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the rebels"
+            },
+            {
+                "target_entity": [
+                    "we"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Russian leaders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "The Russian leaders"
+            },
+            {
+                "target_entity": [
+                    "we"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Assad"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Assad"
+            },
+            {
+                "target_entity": [
+                    "Russian leaders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "they"
+            },
+            {
+                "target_entity": [
+                    "we"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Jabhat al Nosra"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jabhat al Nosra"
+            },
+            {
+                "target_entity": [
+                    "Alawites and others"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Alawites and others in a no man's land Syria"
+            },
+            {
+                "target_entity": [
+                    "Russian leaders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Russia"
+            },
+            {
+                "target_entity": [
+                    "other players"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "all other players"
+            },
+            {
+                "target_entity": [
+                    "Russian Leaders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the Kremlin"
+            },
+            {
+                "target_entity": [
+                    "Assad"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the Assads dynasty"
+            },
+            {
+                "target_entity": [
+                    "Russian Leaders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "they"
+            }
+        ]
+    }
+}

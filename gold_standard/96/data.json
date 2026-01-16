@@ -1,0 +1,71 @@
+{
+    "text": "From: Ehud Barak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Date: Sun, 12/14/2014 10:46:46 PM Subject: Re: Ok. 4pm at the Ritz Lobby. C U. EB Sent from iPhone On Dec 14, 2014, at 20:04, jeffrey E. < jeevacation@gmail.com > wrote: see you at 4? -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<ehbarak1@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<jeevacation@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E.",
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "4pm at the Ritz Lobby"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "< jeevacation@gmail.com >"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            }
+        ]
+    }
+}

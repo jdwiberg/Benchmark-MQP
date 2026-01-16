@@ -1,0 +1,42 @@
+{
+    "text": "From: ehud barak <ehbarak1@gmail.com> To: Evernote <ehudbarak.997e4c9@m.evernote.com> CC: Date: Sun, 7/28/2013 12:22:21 AM Subject: Fwd: $140B damage f CyberSec attacks @General #CyberSec Begin forwarded message: From: Jeffrey Epstein < jeevacation@gmail.com > Date: July 23, 2013 1:13:48 AM GMT+03:00 To: ehud barak < ehbarak1@gmail.com > http://www.latimes.com/business/technology/la-fi-tn-cybercrime-140-billion-dollars-economy-20130722,0,308705.story -- *********************************************************** The information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information, and is intended only for the use of the addressee. It is the property of Jeffrey Epstein Unauthorized use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by return e-mail or by e-mail to jeevacation@gmail.com , and destroy this communication and all copies thereof, including all attachments. copyright -all rights reserve",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehudbarak.997e4c9@m.evernote.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            }
+        ]
+    }
+}

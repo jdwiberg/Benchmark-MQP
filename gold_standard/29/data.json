@@ -1,0 +1,145 @@
+{
+    "text": "From: Lambert, C\n\nMr. Horton,\n\nPlease find attached the 2001 first quarter actual results for the Enron Wind \nAmericas division.  Adam, Mike, and Tod are in Seattle, and have reviewed and \napproved the attached statements.\n\nWe are prepared to release these numbers to the UBS due diligence team \npending your approval.  The statements will not be released until I have \nreceived your authorization.\n\nPlease contact me at (661) 823-6467 if you have concerns or questions.\n\nThank you.\n\nChris Lambert\nDirector, Planning Americas\nEnron Wind\n\n\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Lambert, C"
+            },
+            {
+                "target_entity": [
+                    "Mr. Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Mr. Horton"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Enron Wind Americas division"
+            },
+            {
+                "target_entity": [
+                    "Adam"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Adam"
+            },
+            {
+                "target_entity": [
+                    "Mike"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Mike"
+            },
+            {
+                "target_entity": [
+                    "Tod"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tod"
+            },
+            {
+                "target_entity": [
+                    "Adam",
+                    "Mike",
+                    "Tom"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "in Seattle"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert",
+                    "Adam",
+                    "Mike",
+                    "Todd"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "We"
+            },
+            {
+                "target_entity": [
+                    "UBS"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "UBS due dilligence team"
+            },
+            {
+                "target_entity": [
+                    "Mr. Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Mr. Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(661) 823-6467"
+            },
+            {
+                "target_entity": [
+                    "Mr. Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Mr. Horton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Lambert"
+            },
+            {
+                "target_entity": [
+                    "Chris Lambert"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Director, Planning Americas"
+            },
+            {
+                "target_entity": [
+                    "Enron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Enron Wind"
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "text": "UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767062 Date: 08/31/2015 RELEASE IN PART B6 From: Huma Abedin Sent: Sunday, January 3, 2010 6:47 PM To: H; 'ValmoroU@state.gov ' Subject: Re: Schedule First we are hearing of uruguay, just checked the year end requests from travel and its not in there. We will find out. As for communities of democracies, building and bureau very much aware you committed to going. We just need to work with them through dates etc. Original Message From: H To: ValmoroU@state.govi <ValmoroU@state.gov >; Huma Abedin Sent: Sun Jan 03 18:20:36 2010 Subject: Schedule There will be an inauguration in Uruguay in Feb or March. Pls find out exact date. Also I told FM Sikorsky I would attend Community of Democracies mtg in Poland this summer. He said we could pick date. Do you have any more info? UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767062 Date: 08/31/2015",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Huma Abedin"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "H"
+            },
+            {
+                "target_entity": [
+                    "ValmoroU@state.gov"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "'ValmoroU@state.gov '"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "We"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "H"
+            },
+            {
+                "target_entity": [
+                    "ValmoroU@state.gov"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ValmoroU@state.govi <ValmoroU@state.gov >"
+            },
+            {
+                "target_entity": [
+                    "Huma Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Huma Abedin"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "FM Sikorsky"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "FM Sikorsky"
+            },
+            {
+                "target_entity": [
+                    "Community of Democracies"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Community of Democracies mtg"
+            },
+            {
+                "target_entity": [
+                    "FM Sikorsky"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "He"
+            }
+        ]
+    }
+}

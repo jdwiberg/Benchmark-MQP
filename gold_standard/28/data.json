@@ -1,0 +1,126 @@
+{
+    "text": "Sender: Rachel Kim  \nHi Tom, Dr. Lee sent me a message about my lab results. It\u2019s not urgent, just a reminder to schedule a follow-up next week.  \n\nReceiver: Tom (Orion Data Group)  \nThanks for letting me know, Rachel. Please make sure HR updates your employee health record.  \n\nSender: Rachel Kim  \nI\u2019ve already forwarded the email to hr@oriondata.co.",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sender"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rachel Kim"
+            },
+            {
+                "target_entity": [
+                    "Tom"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tom"
+            },
+            {
+                "target_entity": [
+                    "Dr. Lee"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dr. Lee"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "my lab results"
+            },
+            {
+                "target_entity": [
+                    "Tom"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Receiver"
+            },
+            {
+                "target_entity": [
+                    "Orion Data Group"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Orion Data Group"
+            },
+            {
+                "target_entity": [
+                    "Tom"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Orion Data Group"
+            },
+            {
+                "target_entity": [
+                    "Tom"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rachel"
+            },
+            {
+                "target_entity": [
+                    "Orion Data Group"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "HR"
+            },
+            {
+                "target_entity": [
+                    "Rachel"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "your employee health record"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sender"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rachel Kim"
+            },
+            {
+                "target_entity": [
+                    "Rachel Kim"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I've"
+            },
+            {
+                "target_entity": [
+                    "Orion Data Group"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "hr@oriondata.co"
+            }
+        ]
+    }
+}

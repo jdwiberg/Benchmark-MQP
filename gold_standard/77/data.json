@@ -1,0 +1,91 @@
+{
+    "text": "From: Ehud Barak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Date: Sat, 9/12/2015 8:35:21 PM Subject: Re: Boston Hi Jeff Sorry. I meant after Boston. Best EB Sent from my iPhone On Sep 12, 2015, at 11:53, jeffrey E. < jeevacation@gmail.com > wrote: Tomorw On Saturday, September 12, 2015, Ehud Barak < ehbarak1@gmail.com > wrote: Hi Jeff Thx. C U. When do you fly back to NY? (If that's the case).best Shana Tova EB Sent from my iPhone On Sep 11, 2015, at 23:10, jeffrey E. < jeevacation@gmail.com > wrote: I will return to new york sunday, and we can fly together to boston on the morning of the 16th . see you both soon -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeff"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "Eb"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Ehud Barak < ehbarak1@gmail.com >"
+            },
+            {
+                "target_entity": [
+                    "Jeff"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            }
+        ]
+    }
+}

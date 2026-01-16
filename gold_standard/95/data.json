@@ -1,0 +1,168 @@
+{
+    "text": "________________________________________ Begin forwarded message: From: Darren Indyke < dkiesq@aol.com Date: January 6, 2015 at 17:40:49 GMT+2 To: ehbarak < ehbarak1@gmail.com Cc: Knaani Udi < udi@fwmk-law.co.il Subject: Re: Reporty homeland security Ltd - Term Sheet draft Dear Ehud, Happy and Healthy New Year to you as well. In accordance with Jeffrey\u2019s instructions, I reviewed the revised term sheet once again. I have included in the attached mark-up comments from the prior draft, which I believe still apply, as well as additional comments. I am available all week to discuss at your convenience. Please let me know a convenient time and I will set up a call. Thank you. DARREN K. INDYKE DARREN K. INDYKE, PLLC 575 Lexington Avenue, 4th Floor New York, New York 10022 Telephone: (212) 971-1314 Telecopier: (646) 350-0378 Mobile: (862) 485-6315 email: dkiesq@aol.com <",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darren Indyke"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "dkiesq@aol.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehbarak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Knaani Udi"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Knaani Udi"
+            },
+            {
+                "target_entity": [
+                    "Knaani Udi"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "udi@fwmk-law.co.il"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey's"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "DARREN K. INDYKE"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "DARREN K. INDYKE, PLLC"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "575 Lexington Avenue, 4th Floor New York, New York 10022"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(212) 971-1314"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(646) 350-0378"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(862) 485-6315"
+            },
+            {
+                "target_entity": [
+                    "Darren Indyke"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "dkiesq@aol.com"
+            }
+        ]
+    }
+}

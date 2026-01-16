@@ -1,0 +1,77 @@
+{
+    "text": "From: Patrick Mulvany/ENRON@enronXgate on 05/09/2001 10:35 AM\nTo: Darron C Giron/HOU/ECT@ECT\ncc:  \nSubject: Frank Ermis' trades\n\nDarron,\n\nI have two trades from yesterday that have a few problems.  \n\nV83030.1:  shows a term of Nov02-Mar03.  The broker is saying that is should \nbe Nov02-Dec02.\n\nV83656.1:  Counterparty name should be BANKAMENAT.\n\nI know that you are covering for Carole, so thank you for your time.\n\nPatrick    X53877\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Patrick Mulvany"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Patrick Mulvany"
+            },
+            {
+                "target_entity": [
+                    "Darron C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darron C Giron"
+            },
+            {
+                "target_entity": [
+                    "Frank Ermis"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Frank Ermis' trades"
+            },
+            {
+                "target_entity": [
+                    "Darron C Giron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Darron"
+            },
+            {
+                "target_entity": [
+                    "BANKAMENAT"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Counterparty name"
+            },
+            {
+                "target_entity": [
+                    "The broker"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "The broker"
+            },
+            {
+                "target_entity": [
+                    "BANKAMENAT"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "BANKAMENAT"
+            },
+            {
+                "target_entity": [
+                    "Carole"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Carole"
+            },
+            {
+                "target_entity": [
+                    "Darron"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Patrick Mulvany"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Patrick"
+            }
+        ]
+    }
+}

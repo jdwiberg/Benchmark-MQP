@@ -1,0 +1,91 @@
+{
+    "text": "From:  Marc Eichmann                           01/19/2001 08:44 AM\n\t\nTo: Harry Arora/HOU/ECT@ECT\ncc: Greg Piper/Corp/Enron@Enron \n\nSubject: EOL Model with commodity markets\n\nI am sending you the EOL model on Greg Piper's request. The model reflects \naccurately the traded volumes on EOL for 2000. Projections for 2001- 2011 \nwere built based on feedback from traders, investment bank and research \ninstitutes B2B forecasts and, common sense. These can be manipulated by \nchanging the assumptions in the assumption sheet.\n\nOn the financial side the balance sheet and income statement have not been \ncompletely modelled since no specific deal structure has been defined. \nThough, they include the main revenue and expense components for EOL.\n\nIf you have any doubts with respect to the functionality of the model, please \nlet me know. I am available to clarify them at your convenience.\n\n\nMarc Eichmann\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Marc Eichmann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Marc Eichmann"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry Arora/HOU/ECT@ECT"
+            },
+            {
+                "target_entity": [
+                    "Greg Piper"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Greg Piper/Corp/Enron@Enron"
+            },
+            {
+                "target_entity": [
+                    "ENRON"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Enron@Enron"
+            },
+            {
+                "target_entity": [
+                    "Marc Eichmann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Greg Piper"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Greg Piper's"
+            },
+            {
+                "target_entity": [
+                    "traders"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "traders"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Marc Eichmann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Marc Eichmann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Marc Eichmann"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Marc Eichmann"
+            }
+        ]
+    }
+}

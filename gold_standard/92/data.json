@@ -1,0 +1,63 @@
+{
+    "text": "From: ehud barak <ehbarak1@gmail.com> To: Jeffrey Epstein <jeevacation@gmail.com> CC: Date: Sun, 11/24/2013 5:32:43 PM Subject: Re: I've just got it. Try now or send me a #. I have the flu right now, so cannot go anywhere? EB ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I've"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "I have the flu right now"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            }
+        ]
+    }
+}

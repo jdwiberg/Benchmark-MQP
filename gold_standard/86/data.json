@@ -1,0 +1,51 @@
+{
+    "text": "I think so. Lets discuss it over the weekend. EB Sent from my iPhone On Aug 22, 2013, at 21:06, \nJE wrote: should we plan on inviting certain people for dinners. Maybe the rothchilds-- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "EB"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "EB",
+                    "JE"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Lets"
+            },
+            {
+                "target_entity": [
+                    "JE"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "JE"
+            },
+            {
+                "target_entity": [
+                    "EB",
+                    "JE"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "the Rothchilds"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "certain people"
+            },
+            {
+                "target_entity": [
+                    "the Rothchilds"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the rothchilds"
+            }
+        ]
+    }
+}

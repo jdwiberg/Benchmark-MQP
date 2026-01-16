@@ -1,0 +1,78 @@
+{
+    "text": "From: Barak Nili Priell <nilipriell@gmail.com> CC: Date: Tue, 11/18/2014 4:05:00 PM Subject: Fwd: iPhone Begin forwarded message: To: ehud barak < ehbarak1@gmail.com > I will fly to ny tomorw stay until sat -- unless my doctor is late for our appointment, you can tell him not to be",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Barak Nili Priell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Barak Nili Priell"
+            },
+            {
+                "target_entity": [
+                    "Barak Nili Priell"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<nilipriell@gmail.com>"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "< ehbarak1@gmail.com >"
+            },
+            {
+                "target_entity": [
+                    "Barak Nili Priell"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Barak Nili Priell"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "fly to ny tomorw stay until sat"
+            },
+            {
+                "target_entity": [
+                    "my doctor"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my doctor"
+            },
+            {
+                "target_entity": [
+                    "Barak Nili Priell",
+                    "my doctor"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "my doctor"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "him"
+            }
+        ]
+    }
+}

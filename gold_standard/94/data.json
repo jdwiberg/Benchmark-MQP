@@ -1,0 +1,196 @@
+{
+    "text": "From: ehud barak <ehbarak1@gmail.com> To: Jeffrey Epstein <jeevacation@gmail.com> CC: Date: Mon, 4/22/2013 10:18:24 PM Subject: Re: Jes Staley My mobile is +972506286600. EB Sent from iPhone On Apr 22, 2013, at 20:39, Jeffrey Epstein < jeevacation@gmail.com > From: Lesley Groff < lesley.jee@gmail.com > Date: Mon, Apr 22, 2013 at 1:36 PM Subject: Re: Jes Staley Rosa needs to know how to contact Ehud...please advise On Apr 22, 2013, at 1:26 PM, Jeffrey Epstein wrote: ok, let jes and ehud coordinate directly On Mon, Apr 22, 2013 at 1:24 PM, Lesley Groff < lesley.jee@gmail.com > wrote: Rosa will have Jes give you a call...she is under the impression since Andrew will not be available today, 4:30 with Ehud is not necessary since the meeting is to introduce Ehud to Andrew... --",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jes Staley"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jes Staley"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "my mobile is +972506286600"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Lesley Groff"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Lesley Groff"
+            },
+            {
+                "target_entity": [
+                    "Lesley Groff"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "lesley.jee@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jes Staley"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jes Staley"
+            },
+            {
+                "target_entity": [
+                    "Rosa"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rosa"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeffrey Epstein"
+            },
+            {
+                "target_entity": [
+                    "Jes Staley"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jes"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud"
+            },
+            {
+                "target_entity": [
+                    "Lesley Groff"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Lesley Groff"
+            },
+            {
+                "target_entity": [
+                    "Lesley Groff"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "lesley.jee@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Rosa"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rosa"
+            },
+            {
+                "target_entity": [
+                    "Jes Staley"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jes"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Rosa"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "she"
+            },
+            {
+                "target_entity": [
+                    "Andrew"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Andrew"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "Andrew"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Andrew"
+            }
+        ]
+    }
+}

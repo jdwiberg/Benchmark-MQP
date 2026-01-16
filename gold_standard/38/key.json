@@ -59,8 +59,6 @@
       "target_entity": ["John Murtha"],
       "relation_category": "PHI",
       "relational_entity": "\"He's currently resting and doing well,\""
-    },
-    
-    
+    }
   ]
 }

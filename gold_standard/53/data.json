@@ -1,0 +1,42 @@
+{
+    "text": "UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05765926 Date: 08/31/2015 RELEASE IN PART B6 From: Jiloty, Lauren C <JilotyLC\u00a9state.gov > Sent: Saturday, December 5, 2009 2:24 PM To: H Subject Brian roberts returned your call ### UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05765926 Date: 08/31/2015",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Lauren C Jiloty"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jiloty, Lauren C"
+            },
+            {
+                "target_entity": [
+                    "Lauren C Jiloty"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "JilotyLC\u00a9state.gov"
+            },
+            {
+                "target_entity": [
+                    "Hillary Clinton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "H"
+            },
+            {
+                "target_entity": [
+                    "Brian Roberts"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Brian roberts"
+            },
+            {
+                "target_entity": [
+                    "Hillary Clinton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            }
+        ]
+    }
+}

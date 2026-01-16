@@ -1,0 +1,105 @@
+{
+    "text": "Message-ID: <7121699.1075857321580.JavaMail.evans@thyme>\nDate: Wed, 13 Dec 2000 05:39:00 -0800 (PST)\nFrom: chris.dorland@enron.com\nTo: cgrosso@prebon.com\nSubject: Bear Market\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: Chris Dorland\nX-To: Chris Grosso <CGrosso@prebon.com> @ ENRON\nX-cc: \nX-bcc: \nX-Folder: \\Chris_Dorland_Dec2000\\Notes Folders\\'sent mail\nX-Origin: Dorland-C\nX-FileName: cdorlan.nsf\n\nWe will need to discuss our plan for this ASAP. Formulating a strategy has been difficult with Larry out. Read these:\nItem 1: 42  \nItem 2: 87  \nItem 3: 16  \nItem 4: 93  \nItem 5: 58  \nItem 6: 24  \nItem 7: 75  \nItem 8: 11  \nItem 9: 66  \nItem 10: 39  \nItem 11: 54  \nItem 12: 82  \nItem 13: 27  \nItem 14: 95  \nItem 15: 33  \nItem 16: 60  \nItem 17: 48  \nItem 18: 77  \nItem 19: 29  \nItem 20: 91  \n\nI'm not sure how much we can plan on before he comes back. He said it was a minor surgery, so hopefully soon.\n\n\n\n\n\n\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "chris.dorland@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Chris Grosso"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "cgross@prebon.com"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Dorland"
+            },
+            {
+                "target_entity": [
+                    "Chris Grosso"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Grosso"
+            },
+            {
+                "target_entity": [
+                    "Chris Grosso"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "CGrosso@prebon.com"
+            },
+            {
+                "target_entity": [
+                    "ENRON"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ENRON"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris_Dorland_Dec2000"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "DORLAND-C"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "cdorland.nsf"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland, Chris Grosso"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Larry"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Larry"
+            },
+            {
+                "target_entity": [
+                    "Larry"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "Larry"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "Larry"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "a minor surgery"
+            }
+        ]
+    }
+}

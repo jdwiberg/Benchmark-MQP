@@ -1,0 +1,70 @@
+{
+    "text": "From: ehud barak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Date: Fri, 6/6/2014 8:44:36 PM Subject: Re: Jeff I'll meet VV in some two hours time. He's probably stays on NY till Monday. Does it make sense to have a cup of coffee with him on Sunday? EB Sent from my iPhone On Jun 6, 2014, at 16:35, \"jeffrey E.\" < jeevacation@gmail.com > wrote: Im returning to ny sunday morning now. so have time sunday if you want -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "VV"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "VV"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "He's"
+            },
+            {
+                "target_entity": [
+                    "EB"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeefrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Im"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "text": "From: jeffrey E. <jeevacation@gmail.com> To: Ehud Barak <ehbarak1@gmail.com> CC: Date: Thu, 4/16/2015 5:36:23 PM Subject: Re: i will be there 21 On Thu, Apr 16, 2015 at 9:01 AM, Ehud Barak < ehbarak1@gmail.com > wrote: Hi Jeff NY 21-24 April. 27 April-4 May. Best EB Sent from my iPhone On Apr 16, 2015, at 15:52, jeffrey E. < jeevacation@gmail.com > wrote: when new york? -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "i"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            }
+        ]
+    }
+}

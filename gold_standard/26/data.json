@@ -1,0 +1,290 @@
+{
+    "text": "AGREEMENT AND RELEASE\n\nThis Agreement is entered into on 12/15/2024 between John Smith (hereinafter \"Employee\") and TechCorp Inc. (hereinafter \"Company\"), a Delaware corporation with its principal office located at 123 Main Street, San Francisco, California.\n\nRECITALS\nWHEREAS, Employee has been employed by Company since January 1, 2020, in the position of Senior Software Engineer;\n\nWHEREAS, the parties wish to resolve all matters arising from Employee's employment and separation from Company;\n\n1. SEPARATION DATE\nEmployee's last day of employment with Company shall be December 31, 2024.\n\n3. BENEFITS\nEmployee's health insurance benefits through Blue Cross Blue Shield shall continue until March 31, 2025.\n\n5. REFERENCES\nCompany agrees that any employment verification requests shall be directed to HR Director Sarah Johnson at hr@techcorp.com or (508) 123-4567.\n\n6. CONFIDENTIALITY\nEmployee agrees to maintain confidentiality of all proprietary information, trade secrets, and client data including but not limited to information related to GlobalBank LLC, MegaRetail Corp., and other clients.\n\n7. NON-COMPETE\nEmployee agrees not to work for direct competitors including SoftwareCo, DataSystems Inc., or CloudTech LLC for a period of one year from the separation date.\n\n8. GOVERNING LAW\nThis Agreement shall be governed by the laws of the State of California.\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.\n\nEMPLOYEE:\n_________________________\nJohn Smith\nDate: 12/15/2024\n\nCOMPANY:\n_________________________\nMichael Chen, CEO\nTechCorp Inc.\nDate: 12/15/2024\n\nWITNESS:\n_________________________\nJennifer Williams\nSenior HR Manager\nDate: 12/15/2024\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "John Smith"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "TechCorp Inc."
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Company"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "a Deleware corporation"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "its"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "123 Main Street, San Francisco, California"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Company"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Senior Software Engineer"
+            },
+            {
+                "target_entity": [
+                    "John Smith",
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the parties"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee's"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Company"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Employee's"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Company"
+            },
+            {
+                "target_entity": [
+                    "Joshn Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee's"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "PHI",
+                "relational_entity": "Blue Cross Blue Shield"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "March 31, 2025"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Company"
+            },
+            {
+                "target_entity": [
+                    "Sarah Johnson"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "HR Director"
+            },
+            {
+                "target_entity": [
+                    "Sarah Johnson"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sarah Johnson"
+            },
+            {
+                "target_entity": [
+                    "Sarah Johnson"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "hr@techcorp.com"
+            },
+            {
+                "target_entity": [
+                    "Sarah Johnson"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(508) 123-4567"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee"
+            },
+            {
+                "target_entity": [
+                    "GlobalBank LLC"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "GlobalBank LLC"
+            },
+            {
+                "target_entity": [
+                    "MegaRetail Corp."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "MegaRetail Corp."
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Employee"
+            },
+            {
+                "target_entity": [
+                    "SoftwareCo",
+                    "DataSystems Inc.",
+                    "CloudTech LLC"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "direct competitors"
+            },
+            {
+                "target_entity": [
+                    "SoftwareCo"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "SoftwareCo"
+            },
+            {
+                "target_entity": [
+                    "DataSystems Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "DataSystems Inc."
+            },
+            {
+                "target_entity": [
+                    "CloudTech LLC"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "CloudTech LLC"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EMPLOYEE"
+            },
+            {
+                "target_entity": [
+                    "John Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "John Smith"
+            },
+            {
+                "target_entity": [
+                    "TechCrop Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "COMPANY"
+            },
+            {
+                "target_entity": [
+                    "Michael Chen"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Michael Chen"
+            },
+            {
+                "target_entity": [
+                    "Michael Chen"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "CEO"
+            },
+            {
+                "target_entity": [
+                    "TechCorp Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "TechCorp Inc."
+            },
+            {
+                "target_entity": [
+                    "Jennifer Williams"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "WITNESS"
+            },
+            {
+                "target_entity": [
+                    "Jennifer Williams"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jennifer Williams"
+            },
+            {
+                "target_entity": [
+                    "Jennifer Williams"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Senior HR Manager"
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "text": "Message-ID: <31516805.1075840426778.JavaMail.evans@thyme>\nDate: Wed, 23 May 2001 15:17:00 -0700 (PDT)\nFrom: chris.dorland@enron.com\nTo: lightfield@enron.com, clightfield@velaw.com\nSubject: Re: tonight\nX-From: Chris Dorland\nX-To: Lightfield, Crystal  <CLightfield@velaw.com>\n\nI think Rob and I might try to golf (or just hit some balls) after work. If we do we will probably go to Tradition (way North). I'll let you know. If I'm not going to be home I could leave your Amex in an envelope at the office of my apartment on Main Street or you could grab it when I get back. Let me know...\n\nChris",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "chris.dorland@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "lightfield@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "clightfield@velaw.com"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Dorland"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Lightfield, Crystal"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "<Clightfield@velaw.com>"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Rob"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Rob"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland",
+                    "Rob"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland",
+                    "Rob"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I'm"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "on Main Street"
+            },
+            {
+                "target_entity": [
+                    "Crystal Lightfield"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "text": "Message-ID: <18453937.1075848346694.JavaMail.evans@thyme>\nDate: Mon, 8 Jan 2001 01:18:00 -0800 (PST)\nFrom: erequest@enron.com\nTo: harry.arora@enron.com\nSubject: eRequest Password\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: eRequest@enron.com\nX-To: harry.arora@enron.com (Harry Arora)\n\nYour eRequest's password is 6783\nTo use this password, go to the eRequest website and click on non-Corp logon.\nPut in your email address and the password above and click Log In, and you \nwill log into eRequest.",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "eRequest"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "erequest@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "harry.arora@enron.com"
+            },
+            {
+                "target_entity": [
+                    "eRequest"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "erequest@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "harry.arora@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "(Harry Arora)"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "6783"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            }
+        ]
+    }
+}

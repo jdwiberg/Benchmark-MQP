@@ -1,0 +1,161 @@
+{
+    "text": "UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766432 Date: 08/31/2015 Classified by DAS, A/GIS, DoS on 08/27/2015 \u2014 Class: CONFIDENTIAL \u2014 Reason: 1.4(B), 1.4(D) \u2014 Declassify on: 01/25/2025 RELEASE IN PART B1,1.4(B),1.4(D),B5, B6 From: Sent: To: Subject: Attachments: Jake Sullivan Tuesday, January 26, 2010 8:14 AM H; Abed in, Huma (Clinton) call sheet Call_Sheets jjs.docx Attached and pasted below is material for the calls Calls to Brown and Northern Ireland Political Leaders PM Brown has asked to brief you on ongoing negotiations convened by the UK and Irish governments yesterday with FM Peter Robinson and dFM Martin McGuinness and their respective teams, which lasted until 3:30 a.m. in the morning and resumed at 9:00 a.m. today. Sinn Fein and the DUP are apparently not yet meeting face to face at Hillsborough but using the two governments as go betweens. On-site observers have characterized the current atmosphere between the two parties as \"poisonous.\" B6 were invited to Hillsborough yesterday night. However, these parties tell us that this was only an informational exercise and they have yet to be included in any substantive meetings. Outstanding Issues: The obstacle to progress seems to be centered on the parades issue and setting of specific dates for devolution. Robinson and the DUP are insisting on the abolishing of the Parades Commission, an independent panel despised by the Orange Order as restricting their desire to parade through nationalist areas, and the adoption of a new process relying on local councils to refer potentially contentious parades to an OFM/dFM selected panel. Sinn Fein and SDLP are both concerned that this will politicize decision-making on parades and PSNI involvement. In late December, the UK government renewed the Parades Commission's mandate until December 2010, so it is expected that any new process would not be implemented until after the summer 2010 parading season. UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766432 Date: 08/31/2015 B1 1.4(B) 1.4(D) UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766432 Date: 08/31/2015 Key points: B5 Outcomes: If McGuinness resigns (likely along with the other SF ministers) thereby collapsing the current Executive, the Northern Ireland Act provides for seven calendar days for a new Executive to be formed. Failing that, the Assembly cease to operation and Secretary of State Woodward is supposed to schedule new elections though he is not required to do so within a certain timeframe. (Technically, it would take at least five weeks to organize new Assembly elections.) B1 1.4(B) 1.4(E) UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766432 Date: 08/31/2015",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Jake Sullivan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jake Sullivan"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "H"
+            },
+            {
+                "target_entity": [
+                    "Abedin"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Abed in, Huma (Clinton)"
+            },
+            {
+                "target_entity": [
+                    "Huma"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Abed in, Huma (Clinton)"
+            },
+            {
+                "target_entity": [
+                    "Brown"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "PM Brown"
+            },
+            {
+                "target_entity": [
+                    "H"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "FM Peter Robinson"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "FM Peter Robinson"
+            },
+            {
+                "target_entity": [
+                    "dFM Martin McGuinness"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "dFM Martin McGuinness"
+            },
+            {
+                "target_entity": [
+                    "FM Peter Robinson"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "their respective teams"
+            },
+            {
+                "target_entity": [
+                    "dFM Martin McGuinness"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "their respective teams"
+            },
+            {
+                "target_entity": [
+                    "Sinn Fein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Sinn Fein"
+            },
+            {
+                "target_entity": [
+                    "DUP"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the DUP"
+            },
+            {
+                "target_entity": [
+                    "Parades Commission"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Parades Commission"
+            },
+            {
+                "target_entity": [
+                    "Orange Order"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Orange Order"
+            },
+            {
+                "target_entity": [
+                    "Orange Order"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "their"
+            },
+            {
+                "target_entity": [
+                    "OFM/dFM"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "OFM/dFM selected panel"
+            },
+            {
+                "target_entity": [
+                    "SDLP"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "SDLP"
+            },
+            {
+                "target_entity": [
+                    "PSNI"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "PSNI"
+            },
+            {
+                "target_entity": [
+                    "UK government"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "UK and Irish governments"
+            },
+            {
+                "target_entity": [
+                    "Irish governments"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "UK and Irish governments"
+            },
+            {
+                "target_entity": [
+                    "Secretary of State Woodward"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Secretary of State Woodward"
+            },
+            {
+                "target_entity": [
+                    "Secretary of State Woodward"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            }
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "text": "From: ehbarak <ehbarak1@gmail.com> To: jeffrey E. <jeevacation@gmail.com> CC: Priell Nili <nilipriell@gmail.com> Date: Sun, 9/27/2015 1:42:47 AM Subject: Re: NY this week Hi Jeff Ok. Terja Larsen as well? Best EB Sent from my iPhone On Sep 26, 2015, at 22:39, jeffrey E. < jeevacation@gmail.com > wrote: any interest in the mongolian president monday night dinner at my house On Sat, Sep 26, 2015 at 3:29 PM, ehbarak < ehbarak1@gmail.com > wrote: Hi Jeff We're back Sunday afternoon. Will be glad to meet. Now in Aspen. Met Larry Summers. Had a dinner with Josh C Ramo,Ito from Media lab. Met many others. Let's set a time. We leave NY on Thursday. Best EB Sent from my iPhone On Sep 26, 2015, at 10:20, jeffrey E. < jeevacation@gmail.com > wrote: im in town all week -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehbarak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Priell Nili"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Priell Nili"
+            },
+            {
+                "target_entity": [
+                    "Priell Nili"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "nilipriell@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "Terja Larsen"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Terja Larsen"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Mongolian President"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Mongolian President"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehbarak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "Larry Summers"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Larry Summers"
+            },
+            {
+                "target_entity": [
+                    "Josh C. Ramo"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Josh C Ramo"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            },
+            {
+                "target_entity": [
+                    "jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            }
+        ]
+    }
+}

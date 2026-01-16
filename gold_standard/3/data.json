@@ -1,0 +1,162 @@
+{
+    "text": "From: martin.cuilla@enron.com\nTo: swc88@ou.edu\nSubject: Dave Matthews Tickets\ncc: \nbcc: \nFolder: \\Martin_Cuilla_Dec2000\\Notes Folders\\'sent mail\nOrigin: Cuilla-M\nFileName: mcuilla.nsf\n\nThe winner of the 9/15 Dave Matthews Tickets accidently bid on both pairs of \ntickets I had for sale (9/15 and 9/16) and only wanted one pair.  He is \nbuying the 9/16 tickets (11th row) for $345.  If you are interested in the \n9/15 tickets (8th row) which are even better seats, I can sell them to you \nfor $305.  Let me know asap because I am leaving town around 2pm for the \nweekend.  You can reach me at work or anytime this weekend on my cell phone.  \nIf you are interested please call me at 713-853-5933 (work) or 713-516-8820 \n(cell) and we will work it out.  FYI - Also notifying the person who bid \n$305 and promised to give them first look\n\nThanks,\n\nMartin",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "martin.cuilla@enron.com"
+            },
+            {
+                "target_entity": [
+                    "swc88@ou.edu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "swc88@ou.edu"
+            },
+            {
+                "target_entity": [
+                    "Dave Matthews"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dave Matthews Tickets"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Martin_Cuilla_Dec2000\\Notes Folders\\'sent mail"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Cuilla-M"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "mcuilla.nsf"
+            },
+            {
+                "target_entity": [
+                    "The winner"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "The winner"
+            },
+            {
+                "target_entity": [
+                    "Dave Matthews"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Dave Matthews"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "The winner"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "he"
+            },
+            {
+                "target_entity": [
+                    "swc88@ou.edu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "swc88@ou.edu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "713-853-5933"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "713-516-8820"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla",
+                    "swc88@ou.edu"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "the person who bid $305"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the person who bid $305"
+            },
+            {
+                "target_entity": [
+                    "the person who bid $305"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "them"
+            },
+            {
+                "target_entity": [
+                    "Martin Cuilla"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Thanks, Martin"
+            }
+        ]
+    }
+}

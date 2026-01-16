@@ -1,0 +1,70 @@
+{
+    "text": "Message-ID: <25995729.1075840426755.JavaMail.evans@thyme>\nDate: Wed, 23 May 2001 15:06:00 -0700 (PDT)\nFrom: chris.dorland@enron.com\nTo: kdorland@flint-energy.com\nSubject: \nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: Chris Dorland\nX-To: kdorland <kdorland@flint-energy.com>\n\nDad,\n\nPlease don't forget to make tee times for Saturday and Sunday. I was thinking around noon Saturday and around 4pm on Sunday (Ryan can't make it untill then). \n\nThanx,\n\nChris",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "chris.dorland@enron.com"
+            },
+            {
+                "target_entity": [
+                    "kdorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "kdorland@flint-energy.com"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Dorland"
+            },
+            {
+                "target_entity": [
+                    "kdorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "kdorland"
+            },
+            {
+                "target_entity": [
+                    "kdorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "kdorland@flint-energy.com"
+            },
+            {
+                "target_entity": [
+                    "kdorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Dad"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Ryan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ryan"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris"
+            }
+        ]
+    }
+}

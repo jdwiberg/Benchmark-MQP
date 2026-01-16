@@ -1,0 +1,91 @@
+{
+    "text": "Message-ID: <7608043.1075840426733.JavaMail.evans@thyme>\nDate: Wed, 23 May 2001 15:03:00 -0700 (PDT)\nFrom: chris.dorland@enron.com\nTo: george@enron.com, migeorge@deloitte.ca\nSubject: RE:\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: Chris Dorland\nX-To: George, Mike (CA - Calgary)  <migeorge@deloitte.ca>\n\nAny interest in playing golf Sunday with Ryan, my Dad and I ?\n\nChris",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "chris.dorland@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Mike George"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "george@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Mike George"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "migeorge@deloitte.ca"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris Dorland"
+            },
+            {
+                "target_entity": [
+                    "Mike George"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "George, Mike"
+            },
+            {
+                "target_entity": [
+                    "Mike George"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "(CA - Calgary)"
+            },
+            {
+                "target_entity": [
+                    "Mike George"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "<migeorge@deloitte.ca>"
+            },
+            {
+                "target_entity": [
+                    "Ryan"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ryan"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my"
+            },
+            {
+                "target_entity": [
+                    "Dad"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my Dad"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Chris Dorland"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Chris"
+            }
+        ]
+    }
+}

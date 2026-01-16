@@ -1,0 +1,93 @@
+{
+    "text": "From: \"jeffrey E.\" < jeevacation@gmail.com > Date: June 15, 2014 at 13:39:52 GMT+3 To: \"A. de Rothschild\" < ader@aderfam.ch >, ehud barak < ehbarak1@gmail.com > So there is no mix up on my part , ( like the last time ). you are both addresed on this email and I suggest you coordinate directly, Ariane, Ehud will meet for breakfast in Geneve on tues 18 morning at the location and time of your choice. -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "A. de Rothschild"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "A. de Rothschild"
+            },
+            {
+                "target_entity": [
+                    "A. de Rothschild"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ader@aderfam.ch"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ehud barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "my"
+            },
+            {
+                "target_entity": [
+                    "A. de Rothschild",
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you are both"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey E."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "A. de Rothschild"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ariane"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Ehud"
+            },
+            {
+                "target_entity": [
+                    "A. de Rothschild",
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "in Geneve on tues 18 morning"
+            }
+        ]
+    }
+}

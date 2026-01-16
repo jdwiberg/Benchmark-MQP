@@ -1,0 +1,63 @@
+{
+    "text": "Message-ID: <4126111.1075848346516.JavaMail.evans@thyme>\nDate: Mon, 22 Jan 2001 09:18:00 -0800 (PST)\nFrom: enron.announcements@enron.com\nTo: enw-employees@enron.com\nSubject: Enron Net Works - T&E Policy\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: Enron Announcements\nX-To: ENW-Employees\nX-cc: \nX-bcc: \nX-Folder: \\Harpreet_Arora_Nov2001\\Notes Folders\\Savedmail\nX-Origin: ARORA-H\nX-FileName: harora.nsf\n\nPlease review the attached T&E Policy for Enron Net Works.\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Enron Announcements"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "enron.announcements@enron.com"
+            },
+            {
+                "target_entity": [
+                    "ENW-Employees"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "enw-employees@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Enron Announcements"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Enron Announcements"
+            },
+            {
+                "target_entity": [
+                    "ENW-Employees"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ENW-Employees"
+            },
+            {
+                "target_entity": [
+                    "Arora Harpreet"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "\\Harpreet_Arora_Nov2001"
+            },
+            {
+                "target_entity": [
+                    "Arora Harpreet"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "ARORA-H"
+            },
+            {
+                "target_entity": [
+                    "Arora Harpreet"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "harora.nsf"
+            },
+            {
+                "target_entity": [
+                    "Enron Net Works"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Enron Net Works"
+            }
+        ]
+    }
+}

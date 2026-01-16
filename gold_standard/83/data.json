@@ -1,0 +1,77 @@
+{
+    "text": "From: jeffrey E. <jeevacation@gmail.com> To: Ehud Barak <ehbarak1@gmail.com> CC: Date: Wed, 11/26/2014 5:38:25 AM Subject: Re: Ferguson Events that was as difficult as predicting it would be wet after it rained. speak tomnrw On Tue, Nov 25, 2014 at 7:08 PM, Ehud Barak < ehbarak1@gmail.com > wrote: Jeff You've accurately predicted the eruption. And together we'd predicted the mistakes which will follow. Let's hope it won't get worse. Re Light and Strong. I'll call you tomorrow morning, your time. Best EB Ferguson braces for more unrest http://www.cnn.com/2014/11/25/justice/ferguson-grand-jury-decision/index.html Sent from my iPhone -- ",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "jeffrey E."
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "jeevacation@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "Ehud Barak"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "ehbarak1@gmail.com"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Jeff"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "You've"
+            },
+            {
+                "target_entity": [
+                    "Jeffrey Epstein"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Ehud Barak"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "EB"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "text": "UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766962 Date: 08/31/2015 RELEASE IN FULL From: Mills, Cheryl D <MillsCD@state.gov > Sent: Monday, December 28, 2009 5:21 PM To: Subject FW: happy christmas - we all got our wish - that you be confirmed. xo cdm fyi Original Message----- From: Shannon, Thomas A Sent: Monday, December 28, 2009 4:54 PM To: Mills, Cheryl D Subject: Re: happy christmas - we all got our wish - that you be confirmed. xo cdm Cheryl: Thank you very much for your note. I am enormously grateful for the tremendous support that you and the Secretary offered me during this confirmation gauntlet. Without that support I have no doubt that I would still be stuck in confirmation limbo. I am now looking forward to getting to Brasilia and getting to work. I hope you and your family had a great Christmas. I am wishing you a happy and prosperous new year. Tom Original Message ---- From: Mills, Cheryl D To: Shannon, Thomas A Sent: Sat Dec 26 08:38:02 2009 Subject: happy christmas - we all got our wish - that you be confirmed. xo cdm UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766962 Date: 08/31/2015",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Mills, Cheryl D"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "<MillsCD@state.gov>"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Cheryl"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "your note"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you and your family"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "we"
+            },
+            {
+                "target_entity": [
+                    "Cheryl D. Mills"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "our"
+            },
+            {
+                "target_entity": [
+                    "Thomas A. Shannon"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Shannon, Thomas A"
+            },
+            {
+                "target_entity": [
+                    "Thomas A. Shannon"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tom"
+            },
+            {
+                "target_entity": [
+                    "Thomas A. Shannon"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Thomas A. Shannon"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "me"
+            },
+            {
+                "target_entity": [
+                    "Thomas A. Shannon"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "Hillary Clinton"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the Secretary"
+            }
+        ]
+    }
+}

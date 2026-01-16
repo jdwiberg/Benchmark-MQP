@@ -1,0 +1,112 @@
+{
+    "text": "Message-ID: <22905977.1075848307764.JavaMail.evans@thyme>\nDate: Fri, 5 Jan 2001 07:54:00 -0800 (PST)\nFrom: sheino@ercot-iso.com\nTo: isonp@ercot.com\nSubject: Latest Filing of the ERCOT Protocols - Part 1\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: \"Heino, Shari\" <sheino@ercot-iso.com>\nX-To: 1 Retail Users Group Ad Hoc Subcommittee <isonp@ercot.com>\nX-cc: \nX-bcc: \nX-Folder: \\Doug_Gilbert_Smith_Nov2001\\Notes Folders\\All documents\nX-Origin: GILBERTSMITH-D\nX-FileName: dsmith.nsf\n\nPlease find attached the lastest versions of the\nProtocols (both clean and redlined versions) and\ntheir cover pleadings. These documents were filed\nat the PUCT today.  This will be a five part\nmessage.\n\n\nShari Heino\nCorporate Counsel\nElectric Reliability Council of Texas, Inc.\nsheino@ercot.com      Phone (512) 343-7215    Fax\n(512) 343-8134\n\n\n\n\n\n\n - Supplemental Protocols Filing - complete set.doc\n - Protocols1to10.zip",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "sheino@ercot-iso.com"
+            },
+            {
+                "target_entity": [
+                    "1 Retail Users Group Ad Hoc Subcommittee"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "isonp@ercot.com"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Heino, Shari"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "<sheino@ercot-iso.com>"
+            },
+            {
+                "target_entity": [
+                    "1 Retail Users Group Ad Hoc Subcommittee"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "1 Retail Users Group Ad Hoc Subcommittee"
+            },
+            {
+                "target_entity": [
+                    "1 Retail Users Group Ad Hoc Subcommittee"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "isonp@ercot.com"
+            },
+            {
+                "target_entity": [
+                    "Doug Gilbert Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "\\Doug_Gilbert_Smith_Nov2001"
+            },
+            {
+                "target_entity": [
+                    "Doug Gilbert Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "GILBERTSMITH-D"
+            },
+            {
+                "target_entity": [
+                    "Doug Gilbert Smith"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "dsmith.ndf"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Shari Heino"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "Corporate Counsel"
+            },
+            {
+                "target_entity": [
+                    "Electric Reliability Council of Texas, Inc."
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Electric Reliability Council of Texas, Inc."
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "sheino@ercot.com"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(512) 343-7215"
+            },
+            {
+                "target_entity": [
+                    "Shari Heino"
+                ],
+                "relation_category": "SI",
+                "relational_entity": "(512) 343-8134"
+            }
+        ]
+    }
+}

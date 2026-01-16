@@ -1,0 +1,115 @@
+{
+    "text": "From: tobias.munk@enron.com\nTo: harry.arora@enron.com, suresh.raghavan@enron.com, john.spitz@enron.com\nSubject: Acceptance contract, specifications\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\nX-From: Tobias Munk\nX-To: Harry Arora, suresh.raghavan@enron.com, John Spitz\nX-cc: \nX-bcc: \n\nHi,\n\nHarry would like to meet with us to get buy-in for the development time-table \nof FileOpen deliverables for the dataroom.\n\nThis is in the light of the impending signing-off on the design \nspecifications for FileOpen Systems.\n\nI have attached that document for reference\n\nCould you please confirm 1:30 pm today, on the 27th floor, next to the Chairman's office.\n\nRegards\n\nTobias\n\n\n",
+    "key": {
+        "relationship_triplets": [
+            {
+                "target_entity": [
+                    "Tobias Munk"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "tobias.munk@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "harry.arora@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "suresh.raghavan@enron.com"
+            },
+            {
+                "target_entity": [
+                    "John Spitz"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "john.spitz@enron.com"
+            },
+            {
+                "target_entity": [
+                    "Tobias Munk"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Tobias Munk"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry Arora"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "suresh.raghavan@enron.com"
+            },
+            {
+                "target_entity": [
+                    "John Spitz"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "John Spitz"
+            },
+            {
+                "target_entity": [
+                    "Harry Arora"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "Harry"
+            },
+            {
+                "target_entity": [
+                    "Tobias Munk",
+                    "Suresh Raghavan",
+                    "John Spitz"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "us"
+            },
+            {
+                "target_entity": [
+                    "Tobias Munk"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "I"
+            },
+            {
+                "target_entity": [
+                    "Suresh Raghavan",
+                    "John Spitz"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "you"
+            },
+            {
+                "target_entity": [
+                    "the Chairman"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "the Chairman"
+            },
+            {
+                "target_entity": [
+                    "the Chairman"
+                ],
+                "relation_category": "NPUI",
+                "relational_entity": "27th floor"
+            },
+            {
+                "target_entity": [
+                    "Tobias Munk"
+                ],
+                "relation_category": "DR",
+                "relational_entity": "tobias"
+            }
+        ]
+    }
+}

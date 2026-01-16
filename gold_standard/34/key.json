@@ -9,7 +9,7 @@
       "target_entity": ["Jacob J. Sullivan"],
       "relation_category": "SI",
       "relational_entity": "SullivanJJ©state.gov"
-    }
+    },
     {
       "target_entity": ["U.S. Department of State"],
       "relation_category": "DR",
@@ -30,6 +30,5 @@
       "relation_category": "DR",
       "relational_entity": "SF"
     }
-
   ]
 }
